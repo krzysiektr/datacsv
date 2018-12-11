@@ -1,0 +1,2745 @@
+"nazwa","wojewodztwo","jednostka","wskaznik"
+"gorzowski","lubuskie","powiat",61.33
+"opoczyński","łódzkie","powiat",28.05
+"grodziski","wielkopolskie","powiat",27.79
+"kluczborski","opolskie","powiat",22.94
+"bieszczadzki","podkarpackie","powiat",21.77
+"rzeszowski","podkarpackie","powiat",17.03
+"średzki","wielkopolskie","powiat",15.85
+"lidzbarski","warmińsko-mazurskie","powiat",15.39
+"wałbrzyski","dolnośląskie","powiat",13.95
+"tczewski","pomorskie","powiat",13.24
+"człuchowski","pomorskie","powiat",12.66
+"opolski","lubelskie","powiat",11.88
+"wodzisławski","śląskie","powiat",10.79
+"łęczyński","lubelskie","powiat",9.96
+"płoński","mazowieckie","powiat",9.71
+"płocki","mazowieckie","powiat",8.98
+"starachowicki","świętokrzyskie","powiat",8.8
+"bartoszycki","warmińsko-mazurskie","powiat",8.41
+"szamotulski","wielkopolskie","powiat",8.34
+"bytowski","pomorskie","powiat",8.2
+"stalowowolski","podkarpackie","powiat",7.84
+"zduńskowolski","łódzkie","powiat",7.72
+"limanowski","małopolskie","powiat",7.71
+"obornicki","wielkopolskie","powiat",7.16
+"międzyrzecki","lubuskie","powiat",6.89
+"przasnyski","mazowieckie","powiat",6.49
+"ostrołęcki","mazowieckie","powiat",6.32
+"chełmski","lubelskie","powiat",6.23
+"wołowski","dolnośląskie","powiat",6.12
+"nyski","opolskie","powiat",5.79
+"brzeski","małopolskie","powiat",5.67
+"białobrzeski","mazowieckie","powiat",5.07
+"żuromiński","mazowieckie","powiat",4.94
+"zawierciański","śląskie","powiat",4.78
+"nowotomyski","wielkopolskie","powiat",4.67
+"szczycieński","warmińsko-mazurskie","powiat",4.56
+"bialski","lubelskie","powiat",4.4
+"wąbrzeski","kujawsko-pomorskie","powiat",4.2
+"rycki","lubelskie","powiat",4.19
+"sieradzki","łódzkie","powiat",4.06
+"garwoliński","mazowieckie","powiat",4.06
+"brodnicki","kujawsko-pomorskie","powiat",3.93
+"lubański","dolnośląskie","powiat",3.88
+"brzeski","opolskie","powiat",3.85
+"włoszczowski","świętokrzyskie","powiat",3.76
+"szczecinecki","zachodniopomorskie","powiat",3.64
+"gołdapski","warmińsko-mazurskie","powiat",3.6
+"oławski","dolnośląskie","powiat",3.54
+"prudnicki","opolskie","powiat",3.46
+"będziński","śląskie","powiat",3.36
+"drawski","zachodniopomorskie","powiat",3.27
+"polkowicki","dolnośląskie","powiat",3.26
+"lubiński","dolnośląskie","powiat",3.23
+"łukowski","lubelskie","powiat",3.01
+"parczewski","lubelskie","powiat",2.75
+"grudziądzki","kujawsko-pomorskie","powiat",2.57
+"jarosławski","podkarpackie","powiat",2.51
+"pajęczański","łódzkie","powiat",2.5
+"słupecki","wielkopolskie","powiat",2.48
+"goleniowski","zachodniopomorskie","powiat",2.36
+"wyszkowski","mazowieckie","powiat",2.29
+"sandomierski","świętokrzyskie","powiat",2.23
+"białostocki","podlaskie","powiat",2.21
+"ostrowski","mazowieckie","powiat",2.14
+"sławieński","zachodniopomorskie","powiat",2.14
+"dąbrowski","małopolskie","powiat",2.12
+"nowosolski","lubuskie","powiat",2.04
+"mławski","mazowieckie","powiat",1.82
+"pilski","wielkopolskie","powiat",1.77
+"łomżyński","podlaskie","powiat",1.7
+"kazimierski","świętokrzyskie","powiat",1.6
+"sztumski","pomorskie","powiat",1.58
+"oświęcimski","małopolskie","powiat",1.42
+"żyrardowski","mazowieckie","powiat",1.34
+"włodawski","lubelskie","powiat",1.32
+"łowicki","łódzkie","powiat",1.32
+"giżycki","warmińsko-mazurskie","powiat",1.27
+"krasnostawski","lubelskie","powiat",1.26
+"głubczycki","opolskie","powiat",1.18
+"sokólski","podlaskie","powiat",1.11
+"ostrowski","wielkopolskie","powiat",1.08
+"gdański","pomorskie","powiat",1.05
+"brzozowski","podkarpackie","powiat",0.98
+"jarociński","wielkopolskie","powiat",0.94
+"włocławski","kujawsko-pomorskie","powiat",0.89
+"myślenicki","małopolskie","powiat",0.85
+"ropczycko-sędziszowski","podkarpackie","powiat",0.75
+"gorlicki","małopolskie","powiat",0.71
+"kędzierzyńsko-kozielski","opolskie","powiat",0.6
+"świecki","kujawsko-pomorskie","powiat",0.32
+"piski","warmińsko-mazurskie","powiat",0.22
+"legionowski","mazowieckie","powiat",0.18
+"kolski","wielkopolskie","powiat",0.17
+"szydłowiecki","mazowieckie","powiat",0.14
+"oleski","opolskie","powiat",0.06
+"milicki","dolnośląskie","powiat",0.04
+"świdnicki","lubelskie","powiat",0
+"leszczyński","wielkopolskie","powiat",0
+"leżajski","podkarpackie","powiat",-0.02
+"krośnieński","podkarpackie","powiat",-0.08
+"opatowski","świętokrzyskie","powiat",-0.09
+"wieluński","łódzkie","powiat",-0.15
+"gliwicki","śląskie","powiat",-0.22
+"olecki","warmińsko-mazurskie","powiat",-0.3
+"pleszewski","wielkopolskie","powiat",-0.36
+"siemiatycki","podlaskie","powiat",-0.39
+"nowosądecki","małopolskie","powiat",-0.43
+"kamiennogórski","dolnośląskie","powiat",-0.45
+"słubicki","lubuskie","powiat",-0.5
+"ostrowiecki","świętokrzyskie","powiat",-0.52
+"pabianicki","łódzkie","powiat",-0.59
+"złotowski","wielkopolskie","powiat",-0.62
+"suski","małopolskie","powiat",-0.63
+"śremski","wielkopolskie","powiat",-0.82
+"łańcucki","podkarpackie","powiat",-1.12
+"złotoryjski","dolnośląskie","powiat",-1.22
+"działdowski","warmińsko-mazurskie","powiat",-1.28
+"żniński","kujawsko-pomorskie","powiat",-1.29
+"buski","świętokrzyskie","powiat",-1.32
+"wadowicki","małopolskie","powiat",-1.37
+"sokołowski","mazowieckie","powiat",-1.4
+"dębicki","podkarpackie","powiat",-1.43
+"miechowski","małopolskie","powiat",-1.47
+"piotrkowski","łódzkie","powiat",-1.49
+"międzychodzki","wielkopolskie","powiat",-1.69
+"moniecki","podlaskie","powiat",-1.72
+"tarnowski","małopolskie","powiat",-1.86
+"pińczowski","świętokrzyskie","powiat",-1.93
+"jeleniogórski","dolnośląskie","powiat",-1.96
+"miński","mazowieckie","powiat",-2.01
+"starogardzki","pomorskie","powiat",-2.08
+"rybnicki","śląskie","powiat",-2.14
+"ciechanowski","mazowieckie","powiat",-2.18
+"krapkowicki","opolskie","powiat",-2.25
+"chrzanowski","małopolskie","powiat",-2.3
+"skarżyski","świętokrzyskie","powiat",-2.35
+"wejherowski","pomorskie","powiat",-2.37
+"radomski","mazowieckie","powiat",-2.42
+"bełchatowski","łódzkie","powiat",-2.47
+"namysłowski","opolskie","powiat",-2.47
+"lubelski","lubelskie","powiat",-2.49
+"czarnkowsko-trzcianecki","wielkopolskie","powiat",-2.5
+"sulęciński","lubuskie","powiat",-2.52
+"zgorzelecki","dolnośląskie","powiat",-2.55
+"mogileński","kujawsko-pomorskie","powiat",-2.6
+"brzeziński","łódzkie","powiat",-2.64
+"sierpecki","mazowieckie","powiat",-2.66
+"konecki","świętokrzyskie","powiat",-2.71
+"bielski","podlaskie","powiat",-2.73
+"wieruszowski","łódzkie","powiat",-2.74
+"pszczyński","śląskie","powiat",-2.74
+"bocheński","małopolskie","powiat",-2.81
+"lubliniecki","śląskie","powiat",-2.86
+"lwówecki","dolnośląskie","powiat",-2.97
+"opolski","opolskie","powiat",-3.02
+"rawski","łódzkie","powiat",-3.05
+"gnieźnieński","wielkopolskie","powiat",-3.07
+"mrągowski","warmińsko-mazurskie","powiat",-3.18
+"strzelecki","opolskie","powiat",-3.2
+"wołomiński","mazowieckie","powiat",-3.21
+"hrubieszowski","lubelskie","powiat",-3.27
+"toruński","kujawsko-pomorskie","powiat",-3.28
+"bydgoski","kujawsko-pomorskie","powiat",-3.34
+"suwalski","podlaskie","powiat",-3.34
+"łosicki","mazowieckie","powiat",-3.41
+"puławski","lubelskie","powiat",-3.46
+"radomszczański","łódzkie","powiat",-3.48
+"zamojski","lubelskie","powiat",-3.52
+"zwoleński","mazowieckie","powiat",-3.52
+"augustowski","podlaskie","powiat",-3.52
+"grajewski","podlaskie","powiat",-3.57
+"bieruńsko-lędziński","śląskie","powiat",-3.58
+"tarnobrzeski","podkarpackie","powiat",-3.67
+"nowotarski","małopolskie","powiat",-3.7
+"lipski","mazowieckie","powiat",-3.73
+"bielski","śląskie","powiat",-3.74
+"świdwiński","zachodniopomorskie","powiat",-3.75
+"lubartowski","lubelskie","powiat",-3.99
+"pruszkowski","mazowieckie","powiat",-4.02
+"jasielski","podkarpackie","powiat",-4.02
+"makowski","mazowieckie","powiat",-4.05
+"nowomiejski","warmińsko-mazurskie","powiat",-4.07
+"radziejowski","kujawsko-pomorskie","powiat",-4.09
+"iławski","warmińsko-mazurskie","powiat",-4.18
+"sępoleński","kujawsko-pomorskie","powiat",-4.2
+"braniewski","warmińsko-mazurskie","powiat",-4.2
+"wschowski","lubuskie","powiat",-4.24
+"krotoszyński","wielkopolskie","powiat",-4.31
+"lęborski","pomorskie","powiat",-4.37
+"choszczeński","zachodniopomorskie","powiat",-4.38
+"wielicki","małopolskie","powiat",-4.41
+"górowski","dolnośląskie","powiat",-4.66
+"raciborski","śląskie","powiat",-4.67
+"koszaliński","zachodniopomorskie","powiat",-4.68
+"kraśnicki","lubelskie","powiat",-4.71
+"kozienicki","mazowieckie","powiat",-4.73
+"kłobucki","śląskie","powiat",-4.81
+"łobeski","zachodniopomorskie","powiat",-4.82
+"janowski","lubelskie","powiat",-4.85
+"zgierski","łódzkie","powiat",-4.99
+"jędrzejowski","świętokrzyskie","powiat",-5.02
+"kępiński","wielkopolskie","powiat",-5.06
+"kętrzyński","warmińsko-mazurskie","powiat",-5.09
+"chodzieski","wielkopolskie","powiat",-5.12
+"żagański","lubuskie","powiat",-5.37
+"łódzki wschodni","łódzkie","powiat",-5.43
+"piaseczyński","mazowieckie","powiat",-5.44
+"oleśnicki","dolnośląskie","powiat",-5.45
+"głogowski","dolnośląskie","powiat",-5.51
+"sanocki","podkarpackie","powiat",-5.51
+"węgrowski","mazowieckie","powiat",-5.73
+"gryficki","zachodniopomorskie","powiat",-5.74
+"rypiński","kujawsko-pomorskie","powiat",-5.76
+"aleksandrowski","kujawsko-pomorskie","powiat",-5.79
+"kutnowski","łódzkie","powiat",-5.79
+"lubaczowski","podkarpackie","powiat",-5.89
+"sochaczewski","mazowieckie","powiat",-5.95
+"dzierżoniowski","dolnośląskie","powiat",-5.96
+"nakielski","kujawsko-pomorskie","powiat",-6.21
+"kolbuszowski","podkarpackie","powiat",-6.23
+"ostrzeszowski","wielkopolskie","powiat",-6.62
+"kłodzki","dolnośląskie","powiat",-6.7
+"mielecki","podkarpackie","powiat",-6.77
+"radzyński","lubelskie","powiat",-6.84
+"cieszyński","śląskie","powiat",-6.89
+"wolsztyński","wielkopolskie","powiat",-6.91
+"przysuski","mazowieckie","powiat",-6.95
+"tarnogórski","śląskie","powiat",-6.97
+"gryfiński","zachodniopomorskie","powiat",-6.99
+"turecki","wielkopolskie","powiat",-7.04
+"sejneński","podlaskie","powiat",-7.08
+"poznański","wielkopolskie","powiat",-7.08
+"trzebnicki","dolnośląskie","powiat",-7.09
+"kaliski","wielkopolskie","powiat",-7.16
+"łęczycki","łódzkie","powiat",-7.37
+"grodziski","mazowieckie","powiat",-7.44
+"nowodworski","pomorskie","powiat",-7.53
+"mikołowski","śląskie","powiat",-7.72
+"niżański","podkarpackie","powiat",-7.77
+"siedlecki","mazowieckie","powiat",-7.85
+"biłgorajski","lubelskie","powiat",-7.91
+"wągrowiecki","wielkopolskie","powiat",-7.92
+"strzyżowski","podkarpackie","powiat",-8
+"ząbkowicki","dolnośląskie","powiat",-8.01
+"żywiecki","śląskie","powiat",-8.05
+"nowodworski","mazowieckie","powiat",-8.27
+"pyrzycki","zachodniopomorskie","powiat",-8.29
+"tomaszowski","lubelskie","powiat",-8.32
+"ostródzki","warmińsko-mazurskie","powiat",-8.54
+"wysokomazowiecki","podlaskie","powiat",-8.6
+"lipnowski","kujawsko-pomorskie","powiat",-8.63
+"proszowicki","małopolskie","powiat",-8.69
+"średzki","dolnośląskie","powiat",-8.7
+"przeworski","podkarpackie","powiat",-8.7
+"słupski","pomorskie","powiat",-8.73
+"myszkowski","śląskie","powiat",-8.75
+"pucki","pomorskie","powiat",-8.92
+"myśliborski","zachodniopomorskie","powiat",-8.95
+"nidzicki","warmińsko-mazurskie","powiat",-8.96
+"świdnicki","dolnośląskie","powiat",-9.06
+"policki","zachodniopomorskie","powiat",-9.06
+"strzeliński","dolnośląskie","powiat",-9.08
+"chełmiński","kujawsko-pomorskie","powiat",-9.09
+"warszawski zachodni","mazowieckie","powiat",-9.13
+"zambrowski","podlaskie","powiat",-9.22
+"kwidzyński","pomorskie","powiat",-9.24
+"zielonogórski","lubuskie","powiat",-9.26
+"tatrzański","małopolskie","powiat",-9.43
+"żarski","lubuskie","powiat",-9.47
+"olsztyński","warmińsko-mazurskie","powiat",-9.64
+"tomaszowski","łódzkie","powiat",-9.71
+"rawicki","wielkopolskie","powiat",-9.81
+"węgorzewski","warmińsko-mazurskie","powiat",-10.25
+"krakowski","małopolskie","powiat",-10.58
+"koniński","wielkopolskie","powiat",-10.58
+"golubsko-dobrzyński","kujawsko-pomorskie","powiat",-10.64
+"jaworski","dolnośląskie","powiat",-10.7
+"grójecki","mazowieckie","powiat",-10.93
+"krośnieński","lubuskie","powiat",-11.09
+"legnicki","dolnośląskie","powiat",-11.15
+"kościański","wielkopolskie","powiat",-11.15
+"kielecki","świętokrzyskie","powiat",-11.26
+"skierniewicki","łódzkie","powiat",-11.3
+"hajnowski","podlaskie","powiat",-11.3
+"chojnicki","pomorskie","powiat",-11.36
+"bolesławiecki","dolnośląskie","powiat",-11.61
+"pułtuski","mazowieckie","powiat",-11.67
+"wrzesiński","wielkopolskie","powiat",-11.67
+"gostyński","wielkopolskie","powiat",-11.69
+"malborski","pomorskie","powiat",-11.73
+"kołobrzeski","zachodniopomorskie","powiat",-11.85
+"stargardzki","zachodniopomorskie","powiat",-11.9
+"kartuski","pomorskie","powiat",-12.08
+"ełcki","warmińsko-mazurskie","powiat",-12.09
+"staszowski","świętokrzyskie","powiat",-12.47
+"białogardzki","zachodniopomorskie","powiat",-12.6
+"inowrocławski","kujawsko-pomorskie","powiat",-12.89
+"strzelecko-drezdenecki","lubuskie","powiat",-13.01
+"przemyski","podkarpackie","powiat",-13.26
+"częstochowski","śląskie","powiat",-13.81
+"wałecki","zachodniopomorskie","powiat",-15.03
+"wrocławski","dolnośląskie","powiat",-15.12
+"elbląski","warmińsko-mazurskie","powiat",-15.32
+"świebodziński","lubuskie","powiat",-15.82
+"kolneński","podlaskie","powiat",-15.87
+"kamieński","zachodniopomorskie","powiat",-16.2
+"poddębicki","łódzkie","powiat",-16.71
+"otwocki","mazowieckie","powiat",-17.46
+"łaski","łódzkie","powiat",-19.85
+"kościerski","pomorskie","powiat",-20.86
+"olkuski","małopolskie","powiat",-21.87
+"gostyniński","mazowieckie","powiat",-21.9
+"tucholski","kujawsko-pomorskie","powiat",-23.92
+"leski","podkarpackie","powiat",-36.56
+"Łańcut","podkarpackie","miasto_powiatowe",21.16
+"Nysa","opolskie","miasto_powiatowe",13.11
+"Limanowa","małopolskie","miasto_powiatowe",12.74
+"Lipsko","mazowieckie","miasto_powiatowe",11.09
+"Nowy Dwór Mazowiecki","mazowieckie","miasto_powiatowe",9.27
+"Świdnica","dolnośląskie","miasto_powiatowe",6.97
+"Szamotuły","wielkopolskie","miasto_powiatowe",6.66
+"Lębork","pomorskie","miasto_powiatowe",6.52
+"Środa Śląska","dolnośląskie","miasto_powiatowe",6
+"Stalowa Wola","podkarpackie","miasto_powiatowe",5.55
+"Mielec","podkarpackie","miasto_powiatowe",5.08
+"Piła","wielkopolskie","miasto_powiatowe",4.46
+"Płońsk","mazowieckie","miasto_powiatowe",3.93
+"Łosice","mazowieckie","miasto_powiatowe",3.74
+"Sokółka","podlaskie","miasto_powiatowe",3.43
+"Lubliniec","śląskie","miasto_powiatowe",3.25
+"Namysłów","opolskie","miasto_powiatowe",2.51
+"Krapkowice","opolskie","miasto_powiatowe",2.24
+"Łęczna","lubelskie","miasto_powiatowe",1.93
+"Zgorzelec","dolnośląskie","miasto_powiatowe",1.68
+"Góra","dolnośląskie","miasto_powiatowe",1.66
+"Wejherowo","pomorskie","miasto_powiatowe",1.65
+"Oświęcim","małopolskie","miasto_powiatowe",1.54
+"Wyszków","mazowieckie","miasto_powiatowe",1.29
+"Ustrzyki Dolne","podkarpackie","miasto_powiatowe",1.1
+"Białobrzegi","mazowieckie","miasto_powiatowe",0.33
+"Garwolin","mazowieckie","miasto_powiatowe",0.32
+"Nakło nad Notecią","kujawsko-pomorskie","miasto_powiatowe",0.28
+"Kędzierzyn-Koźle","opolskie","miasto_powiatowe",0.14
+"Polkowice","dolnośląskie","miasto_powiatowe",0
+"Świdnik","lubelskie","miasto_powiatowe",0
+"Sztum","pomorskie","miasto_powiatowe",0
+"Dzierżoniów","dolnośląskie","miasto_powiatowe",-0.08
+"Zambrów","podlaskie","miasto_powiatowe",-0.15
+"Radziejów","kujawsko-pomorskie","miasto_powiatowe",-0.53
+"Głogów","dolnośląskie","miasto_powiatowe",-1.07
+"Wieluń","łódzkie","miasto_powiatowe",-1.08
+"Środa Wielkopolska","wielkopolskie","miasto_powiatowe",-1.26
+"Sokołów Podlaski","mazowieckie","miasto_powiatowe",-1.36
+"Łowicz","łódzkie","miasto_powiatowe",-1.55
+"Jasło","podkarpackie","miasto_powiatowe",-1.57
+"Olesno","opolskie","miasto_powiatowe",-1.66
+"Jarocin","wielkopolskie","miasto_powiatowe",-1.84
+"Otwock","mazowieckie","miasto_powiatowe",-1.97
+"Racibórz","śląskie","miasto_powiatowe",-2.09
+"Lubań","dolnośląskie","miasto_powiatowe",-2.31
+"Żywiec","śląskie","miasto_powiatowe",-2.37
+"Mińsk Mazowiecki","mazowieckie","miasto_powiatowe",-2.52
+"Kwidzyn","pomorskie","miasto_powiatowe",-2.83
+"Kozienice","mazowieckie","miasto_powiatowe",-2.86
+"Lubaczów","podkarpackie","miasto_powiatowe",-3
+"Sandomierz","świętokrzyskie","miasto_powiatowe",-3.07
+"Kutno","łódzkie","miasto_powiatowe",-3.24
+"Białogard","zachodniopomorskie","miasto_powiatowe",-3.28
+"Wołów","dolnośląskie","miasto_powiatowe",-3.3
+"Radomsko","łódzkie","miasto_powiatowe",-3.4
+"Gorlice","małopolskie","miasto_powiatowe",-3.5
+"Opole Lubelskie","lubelskie","miasto_powiatowe",-3.51
+"Zwoleń","mazowieckie","miasto_powiatowe",-3.55
+"Wysokie Mazowieckie","podlaskie","miasto_powiatowe",-3.56
+"Działdowo","warmińsko-mazurskie","miasto_powiatowe",-3.57
+"Busko-Zdrój","świętokrzyskie","miasto_powiatowe",-3.72
+"Kluczbork","opolskie","miasto_powiatowe",-3.89
+"Rypin","kujawsko-pomorskie","miasto_powiatowe",-4.06
+"Nisko","podkarpackie","miasto_powiatowe",-4.08
+"Sucha Beskidzka","małopolskie","miasto_powiatowe",-4.13
+"Kościan","wielkopolskie","miasto_powiatowe",-4.69
+"Dąbrowa Tarnowska","małopolskie","miasto_powiatowe",-4.75
+"Wołomin","mazowieckie","miasto_powiatowe",-4.85
+"Lubin","dolnośląskie","miasto_powiatowe",-4.9
+"Wadowice","małopolskie","miasto_powiatowe",-4.93
+"Sępólno Krajeńskie","kujawsko-pomorskie","miasto_powiatowe",-4.96
+"Tarnowskie Góry","śląskie","miasto_powiatowe",-5.28
+"Biłgoraj","lubelskie","miasto_powiatowe",-5.35
+"Żary","lubuskie","miasto_powiatowe",-5.35
+"Świebodzin","lubuskie","miasto_powiatowe",-5.4
+"Myszków","śląskie","miasto_powiatowe",-5.4
+"Zakopane","małopolskie","miasto_powiatowe",-5.47
+"Nidzica","warmińsko-mazurskie","miasto_powiatowe",-5.51
+"Krasnystaw","lubelskie","miasto_powiatowe",-5.55
+"Pabianice","łódzkie","miasto_powiatowe",-5.64
+"Nowe Miasto Lubawskie","warmińsko-mazurskie","miasto_powiatowe",-5.69
+"Ostrów Mazowiecka","mazowieckie","miasto_powiatowe",-5.7
+"Chełmno","kujawsko-pomorskie","miasto_powiatowe",-5.76
+"Świecie","kujawsko-pomorskie","miasto_powiatowe",-5.79
+"Sławno","zachodniopomorskie","miasto_powiatowe",-5.88
+"Gniezno","wielkopolskie","miasto_powiatowe",-6.05
+"Kępno","wielkopolskie","miasto_powiatowe",-6.34
+"Strzelce Krajeńskie","lubuskie","miasto_powiatowe",-6.37
+"Puck","pomorskie","miasto_powiatowe",-6.39
+"Jarosław","podkarpackie","miasto_powiatowe",-6.4
+"Lidzbark Warmiński","warmińsko-mazurskie","miasto_powiatowe",-6.65
+"Strzelce Opolskie","opolskie","miasto_powiatowe",-6.7
+"Opatów","świętokrzyskie","miasto_powiatowe",-6.77
+"Zawiercie","śląskie","miasto_powiatowe",-6.78
+"Pruszków","mazowieckie","miasto_powiatowe",-6.82
+"Jędrzejów","świętokrzyskie","miasto_powiatowe",-6.93
+"Pajęczno","łódzkie","miasto_powiatowe",-7.2
+"Ropczyce","podkarpackie","miasto_powiatowe",-7.25
+"Września","wielkopolskie","miasto_powiatowe",-7.33
+"Szydłowiec","mazowieckie","miasto_powiatowe",-7.39
+"Starachowice","świętokrzyskie","miasto_powiatowe",-7.52
+"Świdwin","zachodniopomorskie","miasto_powiatowe",-7.59
+"Chojnice","pomorskie","miasto_powiatowe",-7.75
+"Szczytno","warmińsko-mazurskie","miasto_powiatowe",-8
+"Pułtusk","mazowieckie","miasto_powiatowe",-8.08
+"Międzyrzecz","lubuskie","miasto_powiatowe",-8.13
+"Ciechanów","mazowieckie","miasto_powiatowe",-8.17
+"Oława","dolnośląskie","miasto_powiatowe",-8.33
+"Myślenice","małopolskie","miasto_powiatowe",-8.36
+"Czarnków","wielkopolskie","miasto_powiatowe",-8.45
+"Wolsztyn","wielkopolskie","miasto_powiatowe",-8.46
+"Żnin","kujawsko-pomorskie","miasto_powiatowe",-8.5
+"Parczew","lubelskie","miasto_powiatowe",-8.51
+"Kolno","podlaskie","miasto_powiatowe",-8.52
+"Ostrów Wielkopolski","wielkopolskie","miasto_powiatowe",-8.58
+"Augustów","podlaskie","miasto_powiatowe",-8.88
+"Żagań","lubuskie","miasto_powiatowe",-9
+"Gostynin","mazowieckie","miasto_powiatowe",-9.06
+"Sierpc","mazowieckie","miasto_powiatowe",-9.13
+"Głubczyce","opolskie","miasto_powiatowe",-9.32
+"Proszowice","małopolskie","miasto_powiatowe",-9.43
+"Sieradz","łódzkie","miasto_powiatowe",-9.61
+"Żuromin","mazowieckie","miasto_powiatowe",-9.71
+"Kłobuck","śląskie","miasto_powiatowe",-9.84
+"Lubartów","lubelskie","miasto_powiatowe",-9.85
+"Łobez","zachodniopomorskie","miasto_powiatowe",-9.87
+"Siemiatycze","podlaskie","miasto_powiatowe",-9.88
+"Wodzisław Śląski","śląskie","miasto_powiatowe",-9.98
+"Kętrzyn","warmińsko-mazurskie","miasto_powiatowe",-10.11
+"Myślibórz","zachodniopomorskie","miasto_powiatowe",-10.19
+"Tomaszów Mazowiecki","łódzkie","miasto_powiatowe",-10.26
+"Oleśnica","dolnośląskie","miasto_powiatowe",-10.4
+"Bochnia","małopolskie","miasto_powiatowe",-10.47
+"Bełchatów","łódzkie","miasto_powiatowe",-10.49
+"Aleksandrów Kujawski","kujawsko-pomorskie","miasto_powiatowe",-10.5
+"Prudnik","opolskie","miasto_powiatowe",-10.75
+"Rawicz","wielkopolskie","miasto_powiatowe",-10.85
+"Kamienna Góra","dolnośląskie","miasto_powiatowe",-10.87
+"Grajewo","podlaskie","miasto_powiatowe",-10.92
+"Wieruszów","łódzkie","miasto_powiatowe",-11.06
+"Malbork","pomorskie","miasto_powiatowe",-11.08
+"Staszów","świętokrzyskie","miasto_powiatowe",-11.1
+"Zgierz","łódzkie","miasto_powiatowe",-11.14
+"Wieliczka","małopolskie","miasto_powiatowe",-11.16
+"Drawsko Pomorskie","zachodniopomorskie","miasto_powiatowe",-11.17
+"Lipno","kujawsko-pomorskie","miasto_powiatowe",-11.19
+"Grodzisk Mazowiecki","mazowieckie","miasto_powiatowe",-11.22
+"Kraśnik","lubelskie","miasto_powiatowe",-11.27
+"Pińczów","świętokrzyskie","miasto_powiatowe",-11.34
+"Mikołów","śląskie","miasto_powiatowe",-11.35
+"Oborniki","wielkopolskie","miasto_powiatowe",-11.46
+"Końskie","świętokrzyskie","miasto_powiatowe",-11.5
+"Brzeg","opolskie","miasto_powiatowe",-11.65
+"Chodzież","wielkopolskie","miasto_powiatowe",-11.65
+"Janów Lubelski","lubelskie","miasto_powiatowe",-11.73
+"Miechów","małopolskie","miasto_powiatowe",-11.77
+"Śrem","wielkopolskie","miasto_powiatowe",-11.77
+"Brzozów","podkarpackie","miasto_powiatowe",-11.81
+"Sochaczew","mazowieckie","miasto_powiatowe",-11.87
+"Trzebnica","dolnośląskie","miasto_powiatowe",-11.91
+"Łęczyca","łódzkie","miasto_powiatowe",-12.02
+"Bartoszyce","warmińsko-mazurskie","miasto_powiatowe",-12.09
+"Przeworsk","podkarpackie","miasto_powiatowe",-12.18
+"Brzeziny","łódzkie","miasto_powiatowe",-12.24
+"Puławy","lubelskie","miasto_powiatowe",-12.26
+"Ząbkowice Śląskie","dolnośląskie","miasto_powiatowe",-12.28
+"Pyrzyce","zachodniopomorskie","miasto_powiatowe",-12.37
+"Przasnysz","mazowieckie","miasto_powiatowe",-12.44
+"Włoszczowa","świętokrzyskie","miasto_powiatowe",-12.48
+"Cieszyn","śląskie","miasto_powiatowe",-12.49
+"Stargard Szczeciński","zachodniopomorskie","miasto_powiatowe",-12.52
+"Piaseczno","mazowieckie","miasto_powiatowe",-12.59
+"Rawa Mazowiecka","łódzkie","miasto_powiatowe",-12.65
+"Tczew","pomorskie","miasto_powiatowe",-12.68
+"Krosno Odrzańskie","lubuskie","miasto_powiatowe",-12.9
+"Koło","wielkopolskie","miasto_powiatowe",-12.9
+"Brzesko","małopolskie","miasto_powiatowe",-12.95
+"Police","zachodniopomorskie","miasto_powiatowe",-13.03
+"Strzelin","dolnośląskie","miasto_powiatowe",-13.2
+"Ełk","warmińsko-mazurskie","miasto_powiatowe",-13.21
+"Przysucha","mazowieckie","miasto_powiatowe",-13.64
+"Złotoryja","dolnośląskie","miasto_powiatowe",-13.67
+"Strzyżów","podkarpackie","miasto_powiatowe",-13.7
+"Maków Mazowiecki","mazowieckie","miasto_powiatowe",-13.84
+"Człuchów","pomorskie","miasto_powiatowe",-13.88
+"Mrągowo","warmińsko-mazurskie","miasto_powiatowe",-13.91
+"Gostyń","wielkopolskie","miasto_powiatowe",-13.94
+"Radzyń Podlaski","lubelskie","miasto_powiatowe",-13.95
+"Słupca","wielkopolskie","miasto_powiatowe",-14.02
+"Tomaszów Lubelski","lubelskie","miasto_powiatowe",-14.19
+"Giżycko","warmińsko-mazurskie","miasto_powiatowe",-14.22
+"Gołdap","warmińsko-mazurskie","miasto_powiatowe",-14.29
+"Tuchola","kujawsko-pomorskie","miasto_powiatowe",-14.54
+"Łask","łódzkie","miasto_powiatowe",-14.55
+"Milicz","dolnośląskie","miasto_powiatowe",-14.77
+"Olkusz","małopolskie","miasto_powiatowe",-14.78
+"Mońki","podlaskie","miasto_powiatowe",-14.83
+"Bytów","pomorskie","miasto_powiatowe",-15.17
+"Starogard Gdański","pomorskie","miasto_powiatowe",-15.18
+"Kolbuszowa","podkarpackie","miasto_powiatowe",-15.39
+"Lwówek Śląski","dolnośląskie","miasto_powiatowe",-15.42
+"Szczecinek","zachodniopomorskie","miasto_powiatowe",-15.59
+"Olecko","warmińsko-mazurskie","miasto_powiatowe",-15.71
+"Nowy Tomyśl","wielkopolskie","miasto_powiatowe",-15.71
+"Bielsk Podlaski","podlaskie","miasto_powiatowe",-15.78
+"Będzin","śląskie","miasto_powiatowe",-15.84
+"Kołobrzeg","zachodniopomorskie","miasto_powiatowe",-15.86
+"Grójec","mazowieckie","miasto_powiatowe",-15.88
+"Mława","mazowieckie","miasto_powiatowe",-16
+"Łuków","lubelskie","miasto_powiatowe",-16.29
+"Ostrzeszów","wielkopolskie","miasto_powiatowe",-16.48
+"Poddębice","łódzkie","miasto_powiatowe",-16.71
+"Wągrowiec","wielkopolskie","miasto_powiatowe",-16.73
+"Ostrowiec Świętokrzyski","świętokrzyskie","miasto_powiatowe",-16.76
+"Turek","wielkopolskie","miasto_powiatowe",-16.9
+"Hajnówka","podlaskie","miasto_powiatowe",-17.05
+"Hrubieszów","lubelskie","miasto_powiatowe",-17.12
+"Węgorzewo","warmińsko-mazurskie","miasto_powiatowe",-17.12
+"Jawor","dolnośląskie","miasto_powiatowe",-17.25
+"Bolesławiec","dolnośląskie","miasto_powiatowe",-17.32
+"Braniewo","warmińsko-mazurskie","miasto_powiatowe",-17.45
+"Ostróda","warmińsko-mazurskie","miasto_powiatowe",-17.48
+"Złotów","wielkopolskie","miasto_powiatowe",-17.62
+"Sanok","podkarpackie","miasto_powiatowe",-17.72
+"Kościerzyna","pomorskie","miasto_powiatowe",-17.76
+"Grodzisk Wielkopolski","wielkopolskie","miasto_powiatowe",-17.8
+"Chrzanów","małopolskie","miasto_powiatowe",-17.88
+"Iława","warmińsko-mazurskie","miasto_powiatowe",-18.09
+"Pleszew","wielkopolskie","miasto_powiatowe",-18.1
+"Brodnica","kujawsko-pomorskie","miasto_powiatowe",-18.15
+"Wąbrzeźno","kujawsko-pomorskie","miasto_powiatowe",-18.28
+"Mogilno","kujawsko-pomorskie","miasto_powiatowe",-18.64
+"Goleniów","zachodniopomorskie","miasto_powiatowe",-18.65
+"Inowrocław","kujawsko-pomorskie","miasto_powiatowe",-18.82
+"Ryki","lubelskie","miasto_powiatowe",-18.97
+"Leżajsk","podkarpackie","miasto_powiatowe",-19.13
+"Choszczno","zachodniopomorskie","miasto_powiatowe",-19.27
+"Zduńska Wola","łódzkie","miasto_powiatowe",-19.32
+"Pszczyna","śląskie","miasto_powiatowe",-19.35
+"Lesko","podkarpackie","miasto_powiatowe",-19.41
+"Kazimierza Wielka","świętokrzyskie","miasto_powiatowe",-19.61
+"Dębica","podkarpackie","miasto_powiatowe",-19.64
+"Opoczno","łódzkie","miasto_powiatowe",-20.26
+"Wschowa","lubuskie","miasto_powiatowe",-20.34
+"Kartuzy","pomorskie","miasto_powiatowe",-20.48
+"Wałcz","zachodniopomorskie","miasto_powiatowe",-20.6
+"Legionowo","mazowieckie","miasto_powiatowe",-20.67
+"Nowy Dwór Gdański","pomorskie","miasto_powiatowe",-20.71
+"Międzychód","wielkopolskie","miasto_powiatowe",-21.28
+"Golub-Dobrzyń","kujawsko-pomorskie","miasto_powiatowe",-21.39
+"Gryfice","zachodniopomorskie","miasto_powiatowe",-22.14
+"Nowy Targ","małopolskie","miasto_powiatowe",-22.15
+"Skarżysko-Kamienna","świętokrzyskie","miasto_powiatowe",-23.36
+"Gryfino","zachodniopomorskie","miasto_powiatowe",-23.51
+"Żyrardów","mazowieckie","miasto_powiatowe",-23.79
+"Włodawa","lubelskie","miasto_powiatowe",-24.44
+"Pruszcz Gdański","pomorskie","miasto_powiatowe",-25.35
+"Słubice","lubuskie","miasto_powiatowe",-25.36
+"Nowa Sól","lubuskie","miasto_powiatowe",-25.95
+"Kłodzko","dolnośląskie","miasto_powiatowe",-26.62
+"Węgrów","mazowieckie","miasto_powiatowe",-27.14
+"Sejny","podlaskie","miasto_powiatowe",-29.35
+"Sulęcin","lubuskie","miasto_powiatowe",-29.43
+"Kamień Pomorski","zachodniopomorskie","miasto_powiatowe",-29.51
+"Krotoszyn","wielkopolskie","miasto_powiatowe",-30
+"Pisz","warmińsko-mazurskie","miasto_powiatowe",-48.81
+"Byczyna","opolskie","miasto_inne",221.72
+"Lubycza Królewska","lubelskie","miasto_inne",29.21
+"Szprotawa","lubuskie","miasto_inne",28.12
+"Chodecz","kujawsko-pomorskie","miasto_inne",26
+"Dziwnów","zachodniopomorskie","miasto_inne",17.9
+"Bierutów","dolnośląskie","miasto_inne",17.18
+"Krzywiń","wielkopolskie","miasto_inne",16.9
+"Korsze","warmińsko-mazurskie","miasto_inne",16.71
+"Lubraniec","kujawsko-pomorskie","miasto_inne",15.96
+"Duszniki-Zdrój","dolnośląskie","miasto_inne",15.2
+"Krynki","podlaskie","miasto_inne",13.33
+"Frombork","warmińsko-mazurskie","miasto_inne",13.13
+"Łazy","śląskie","miasto_inne",12.98
+"Żelechów","mazowieckie","miasto_inne",12.37
+"Wolbrom","małopolskie","miasto_inne",12.08
+"Mirosławiec","zachodniopomorskie","miasto_inne",11.39
+"Sułkowice","małopolskie","miasto_inne",11.15
+"Iłowa","lubuskie","miasto_inne",10.81
+"Osieczna","wielkopolskie","miasto_inne",10.64
+"Trzemeszno","wielkopolskie","miasto_inne",8.61
+"Baborów","opolskie","miasto_inne",8.53
+"Stary Sącz","małopolskie","miasto_inne",8.42
+"Nowa Ruda","dolnośląskie","miasto_inne",8.28
+"Połaniec","świętokrzyskie","miasto_inne",8.13
+"Cybinka","lubuskie","miasto_inne",7.32
+"Józefów","lubelskie","miasto_inne",7.28
+"Szczawno-Zdrój","dolnośląskie","miasto_inne",7.22
+"Raciąż","mazowieckie","miasto_inne",7.18
+"Lubawka","dolnośląskie","miasto_inne",6.92
+"Czempiń","wielkopolskie","miasto_inne",6.7
+"Kostrzyn","wielkopolskie","miasto_inne",5.91
+"Bystrzyca Kłodzka","dolnośląskie","miasto_inne",5.9
+"Opalenica","wielkopolskie","miasto_inne",5.85
+"Kłecko","wielkopolskie","miasto_inne",5.83
+"Radzymin","mazowieckie","miasto_inne",5.77
+"Nowe Skalmierzyce","wielkopolskie","miasto_inne",5.38
+"Prusice","dolnośląskie","miasto_inne",5.19
+"Górowo Iławeckie","warmińsko-mazurskie","miasto_inne",5.18
+"Kazimierz Dolny","lubelskie","miasto_inne",5.14
+"Siewierz","śląskie","miasto_inne",5.11
+"Niepołomice","małopolskie","miasto_inne",5
+"Śmigiel","wielkopolskie","miasto_inne",4.72
+"Stryków","łódzkie","miasto_inne",4.61
+"Dolsk","wielkopolskie","miasto_inne",4.58
+"Sompolno","wielkopolskie","miasto_inne",4.29
+"Gniew","pomorskie","miasto_inne",4.28
+"Izbica Kujawska","kujawsko-pomorskie","miasto_inne",4.18
+"Żarów","dolnośląskie","miasto_inne",4.14
+"Frampol","lubelskie","miasto_inne",4.1
+"Sępopol","warmińsko-mazurskie","miasto_inne",3.87
+"Ustroń","śląskie","miasto_inne",3.65
+"Sławków","śląskie","miasto_inne",3.59
+"Buk","wielkopolskie","miasto_inne",3.38
+"Miłomłyn","warmińsko-mazurskie","miasto_inne",3.24
+"Twardogóra","dolnośląskie","miasto_inne",3.18
+"Radłów","małopolskie","miasto_inne",2.86
+"Pieniężno","warmińsko-mazurskie","miasto_inne",2.35
+"Wojkowice","śląskie","miasto_inne",2.03
+"Skarszewy","pomorskie","miasto_inne",1.75
+"Tarczyn","mazowieckie","miasto_inne",1.48
+"Boguszów-Gorce","dolnośląskie","miasto_inne",1.47
+"Głogów Małopolski","podkarpackie","miasto_inne",1.44
+"Kobylin","wielkopolskie","miasto_inne",1.38
+"Lubniewice","lubuskie","miasto_inne",1.21
+"Pyskowice","śląskie","miasto_inne",1.21
+"Dobrzany","zachodniopomorskie","miasto_inne",1.17
+"Rzgów","łódzkie","miasto_inne",1.14
+"Pieńsk","dolnośląskie","miasto_inne",1.06
+"Łaziska Górne","śląskie","miasto_inne",0.9
+"Modliborzyce","lubelskie","miasto_inne",0.88
+"Knurów","śląskie","miasto_inne",0.81
+"Pilica","śląskie","miasto_inne",0.68
+"Bardo","dolnośląskie","miasto_inne",0.63
+"Uniejów","łódzkie","miasto_inne",0.62
+"Dynów","podkarpackie","miasto_inne",0.55
+"Olsztynek","warmińsko-mazurskie","miasto_inne",0.34
+"Sianów","zachodniopomorskie","miasto_inne",0.31
+"Książ Wielkopolski","wielkopolskie","miasto_inne",0.3
+"Olszyna","dolnośląskie","miasto_inne",0.13
+"Krynica Morska","pomorskie","miasto_inne",0
+"Ożarów","świętokrzyskie","miasto_inne",0
+"Działoszyce","świętokrzyskie","miasto_inne",0
+"Pogorzela","wielkopolskie","miasto_inne",0
+"Stepnica","zachodniopomorskie","miasto_inne",0
+"Nowe Warpno","zachodniopomorskie","miasto_inne",0
+"Kosów Lacki","mazowieckie","miasto_inne",-0.05
+"Żychlin","łódzkie","miasto_inne",-0.15
+"Pruchnik","podkarpackie","miasto_inne",-0.18
+"Nowogród Bobrzański","lubuskie","miasto_inne",-0.42
+"Mirsk","dolnośląskie","miasto_inne",-0.5
+"Marki","mazowieckie","miasto_inne",-0.54
+"Zdzieszowice","opolskie","miasto_inne",-0.56
+"Dobrzyń nad Wisłą","kujawsko-pomorskie","miasto_inne",-0.63
+"Sędziszów","świętokrzyskie","miasto_inne",-0.81
+"Dąbrowa Białostocka","podlaskie","miasto_inne",-0.84
+"Różan","mazowieckie","miasto_inne",-0.87
+"Ulanów","podkarpackie","miasto_inne",-0.9
+"Złoczew","łódzkie","miasto_inne",-1.03
+"Głowno","łódzkie","miasto_inne",-1.1
+"Kleczew","wielkopolskie","miasto_inne",-1.11
+"Wleń","dolnośląskie","miasto_inne",-1.12
+"Grodków","opolskie","miasto_inne",-1.26
+"Rymanów","podkarpackie","miasto_inne",-1.27
+"Kańczuga","podkarpackie","miasto_inne",-1.28
+"Knyszyn","podlaskie","miasto_inne",-1.33
+"Świebodzice","dolnośląskie","miasto_inne",-1.34
+"Toszek","śląskie","miasto_inne",-1.41
+"Łomianki","mazowieckie","miasto_inne",-1.49
+"Lubień Kujawski","kujawsko-pomorskie","miasto_inne",-1.56
+"Aleksandrów Łódzki","łódzkie","miasto_inne",-1.56
+"Błonie","mazowieckie","miasto_inne",-1.69
+"Trzcińsko-Zdrój","zachodniopomorskie","miasto_inne",-1.75
+"Dobra","wielkopolskie","miasto_inne",-1.8
+"Radlin","śląskie","miasto_inne",-1.82
+"Wysoka","wielkopolskie","miasto_inne",-1.82
+"Karpacz","dolnośląskie","miasto_inne",-1.83
+"Czyżew","podlaskie","miasto_inne",-1.99
+"Obrzycko","wielkopolskie","miasto_inne",-2.01
+"Wyszogród","mazowieckie","miasto_inne",-2.03
+"Ostrów Lubelski","lubelskie","miasto_inne",-2.06
+"Jastrowie","wielkopolskie","miasto_inne",-2.12
+"Szczawnica","małopolskie","miasto_inne",-2.52
+"Iłża","mazowieckie","miasto_inne",-2.52
+"Mieszkowice","zachodniopomorskie","miasto_inne",-2.55
+"Miasteczko Śląskie","śląskie","miasto_inne",-2.62
+"Trzcianka","wielkopolskie","miasto_inne",-2.63
+"Lubsko","lubuskie","miasto_inne",-2.65
+"Piława Górna","dolnośląskie","miasto_inne",-2.69
+"Człopa","zachodniopomorskie","miasto_inne",-2.72
+"Zalewo","warmińsko-mazurskie","miasto_inne",-2.73
+"Czeladź","śląskie","miasto_inne",-2.9
+"Tuczno","zachodniopomorskie","miasto_inne",-2.9
+"Łęknica","lubuskie","miasto_inne",-2.91
+"Zaklików","podkarpackie","miasto_inne",-2.94
+"Urzędów","lubelskie","miasto_inne",-2.96
+"Nasielsk","mazowieckie","miasto_inne",-3.11
+"Pszów","śląskie","miasto_inne",-3.23
+"Ścinawa","dolnośląskie","miasto_inne",-3.27
+"Boguchwała","podkarpackie","miasto_inne",-3.28
+"Płoty","zachodniopomorskie","miasto_inne",-3.28
+"Resko","zachodniopomorskie","miasto_inne",-3.3
+"Siedliszcze","lubelskie","miasto_inne",-3.31
+"Ślesin","wielkopolskie","miasto_inne",-3.35
+"Maków Podhalański","małopolskie","miasto_inne",-3.48
+"Raszków","wielkopolskie","miasto_inne",-3.5
+"Brwinów","mazowieckie","miasto_inne",-3.6
+"Konstancin-Jeziorna","mazowieckie","miasto_inne",-3.61
+"Iwonicz-Zdrój","podkarpackie","miasto_inne",-3.61
+"Krośniewice","łódzkie","miasto_inne",-3.65
+"Jaworzyna Śląska","dolnośląskie","miasto_inne",-3.68
+"Głogówek","opolskie","miasto_inne",-3.69
+"Chocz","wielkopolskie","miasto_inne",-3.69
+"Młynary","warmińsko-mazurskie","miasto_inne",-3.72
+"Reszel","warmińsko-mazurskie","miasto_inne",-3.74
+"Kobyłka","mazowieckie","miasto_inne",-3.82
+"Wyśmierzyce","mazowieckie","miasto_inne",-3.94
+"Barcin","kujawsko-pomorskie","miasto_inne",-3.96
+"Stęszew","wielkopolskie","miasto_inne",-3.98
+"Dukla","podkarpackie","miasto_inne",-4.03
+"Mieroszów","dolnośląskie","miasto_inne",-4.08
+"Kąty Wrocławskie","dolnośląskie","miasto_inne",-4.08
+"Bieruń","śląskie","miasto_inne",-4.09
+"Orneta","warmińsko-mazurskie","miasto_inne",-4.11
+"Ogrodzieniec","śląskie","miasto_inne",-4.12
+"Prochowice","dolnośląskie","miasto_inne",-4.13
+"Kruszwica","kujawsko-pomorskie","miasto_inne",-4.25
+"Cieszanów","podkarpackie","miasto_inne",-4.27
+"Czarna Woda","pomorskie","miasto_inne",-4.34
+"Rejowiec Fabryczny","lubelskie","miasto_inne",-4.38
+"Prószków","opolskie","miasto_inne",-4.53
+"Sobótka","dolnośląskie","miasto_inne",-4.64
+"Janikowo","kujawsko-pomorskie","miasto_inne",-4.65
+"Skępe","kujawsko-pomorskie","miasto_inne",-4.67
+"Złoty Stok","dolnośląskie","miasto_inne",-4.68
+"Piastów","mazowieckie","miasto_inne",-4.7
+"Nowa Sarzyna","podkarpackie","miasto_inne",-4.7
+"Koluszki","łódzkie","miasto_inne",-4.73
+"Gogolin","opolskie","miasto_inne",-4.73
+"Bodzentyn","świętokrzyskie","miasto_inne",-4.74
+"Kożuchów","lubuskie","miasto_inne",-4.8
+"Wyrzysk","wielkopolskie","miasto_inne",-4.83
+"Brzeg Dolny","dolnośląskie","miasto_inne",-4.96
+"Andrychów","małopolskie","miasto_inne",-5.02
+"Szczuczyn","podlaskie","miasto_inne",-5.02
+"Miłakowo","warmińsko-mazurskie","miasto_inne",-5.02
+"Sędziszów Małopolski","podkarpackie","miasto_inne",-5.07
+"Barwice","zachodniopomorskie","miasto_inne",-5.07
+"Koprzywnica","świętokrzyskie","miasto_inne",-5.12
+"Serock","mazowieckie","miasto_inne",-5.16
+"Bogatynia","dolnośląskie","miasto_inne",-5.35
+"Skoki","wielkopolskie","miasto_inne",-5.41
+"Pakość","kujawsko-pomorskie","miasto_inne",-5.55
+"Nowy Staw","pomorskie","miasto_inne",-5.64
+"Tykocin","podlaskie","miasto_inne",-5.65
+"Debrzno","pomorskie","miasto_inne",-5.69
+"Praszka","opolskie","miasto_inne",-5.71
+"Lubomierz","dolnośląskie","miasto_inne",-5.73
+"Radków","dolnośląskie","miasto_inne",-5.83
+"Kleszczele","podlaskie","miasto_inne",-5.9
+"Zbąszyń","wielkopolskie","miasto_inne",-5.94
+"Krajenka","wielkopolskie","miasto_inne",-5.94
+"Ciechanowiec","podlaskie","miasto_inne",-6
+"Leśnica","opolskie","miasto_inne",-6.05
+"Warta","łódzkie","miasto_inne",-6.1
+"Murowana Goślina","wielkopolskie","miasto_inne",-6.1
+"Koziegłowy","śląskie","miasto_inne",-6.12
+"Bytom Odrzański","lubuskie","miasto_inne",-6.33
+"Łasin","kujawsko-pomorskie","miasto_inne",-6.34
+"Bełżyce","lubelskie","miasto_inne",-6.4
+"Węgliniec","dolnośląskie","miasto_inne",-6.42
+"Prabuty","pomorskie","miasto_inne",-6.64
+"Radomyśl Wielki","podkarpackie","miasto_inne",-6.67
+"Jedwabne","podlaskie","miasto_inne",-6.69
+"Głuchołazy","opolskie","miasto_inne",-6.73
+"Łaskarzew","mazowieckie","miasto_inne",-6.86
+"Sława","lubuskie","miasto_inne",-6.87
+"Jutrosin","wielkopolskie","miasto_inne",-6.87
+"Borne Sulinowo","zachodniopomorskie","miasto_inne",-6.9
+"Zagórów","wielkopolskie","miasto_inne",-6.93
+"Polanów","zachodniopomorskie","miasto_inne",-6.94
+"Ujazd","opolskie","miasto_inne",-6.95
+"Niemcza","dolnośląskie","miasto_inne",-7.01
+"Lewin Brzeski","opolskie","miasto_inne",-7.09
+"Ćmielów","świętokrzyskie","miasto_inne",-7.1
+"Strumień","śląskie","miasto_inne",-7.18
+"Chojnów","dolnośląskie","miasto_inne",-7.19
+"Lubawa","warmińsko-mazurskie","miasto_inne",-7.22
+"Nieszawa","kujawsko-pomorskie","miasto_inne",-7.29
+"Mosina","wielkopolskie","miasto_inne",-7.33
+"Sulejówek","mazowieckie","miasto_inne",-7.34
+"Swarzędz","wielkopolskie","miasto_inne",-7.34
+"Pieszyce","dolnośląskie","miasto_inne",-7.35
+"Zwierzyniec","lubelskie","miasto_inne",-7.36
+"Biała Piska","warmińsko-mazurskie","miasto_inne",-7.4
+"Miastko","pomorskie","miasto_inne",-7.42
+"Mielno","zachodniopomorskie","miasto_inne",-7.44
+"Jabłonowo Pomorskie","kujawsko-pomorskie","miasto_inne",-7.46
+"Paczków","opolskie","miasto_inne",-7.46
+"Mikstat","wielkopolskie","miasto_inne",-7.51
+"Władysławowo","pomorskie","miasto_inne",-7.54
+"Żarki","śląskie","miasto_inne",-7.56
+"Okonek","wielkopolskie","miasto_inne",-7.56
+"Kamieńsk","łódzkie","miasto_inne",-7.58
+"Wołczyn","opolskie","miasto_inne",-7.59
+"Myszyniec","mazowieckie","miasto_inne",-7.7
+"Kłodawa","wielkopolskie","miasto_inne",-7.72
+"Zabłudów","podlaskie","miasto_inne",-7.74
+"Łabiszyn","kujawsko-pomorskie","miasto_inne",-7.82
+"Borek Wielkopolski","wielkopolskie","miasto_inne",-7.85
+"Piotrków Kujawski","kujawsko-pomorskie","miasto_inne",-7.88
+"Dobrodzień","opolskie","miasto_inne",-7.89
+"Sieniawa","podkarpackie","miasto_inne",-7.9
+"Świeradów-Zdrój","dolnośląskie","miasto_inne",-7.94
+"Lidzbark","warmińsko-mazurskie","miasto_inne",-7.96
+"Żerków","wielkopolskie","miasto_inne",-8
+"Stoczek Łukowski","lubelskie","miasto_inne",-8.05
+"Ujście","wielkopolskie","miasto_inne",-8.06
+"Kuźnia Raciborska","śląskie","miasto_inne",-8.07
+"Radymno","podkarpackie","miasto_inne",-8.14
+"Cedynia","zachodniopomorskie","miasto_inne",-8.15
+"Bobowa","małopolskie","miasto_inne",-8.16
+"Ciechocinek","kujawsko-pomorskie","miasto_inne",-8.23
+"Opatówek","wielkopolskie","miasto_inne",-8.29
+"Szubin","kujawsko-pomorskie","miasto_inne",-8.31
+"Dobre Miasto","warmińsko-mazurskie","miasto_inne",-8.32
+"Dęblin","lubelskie","miasto_inne",-8.33
+"Gryfów Śląski","dolnośląskie","miasto_inne",-8.34
+"Tychowo","zachodniopomorskie","miasto_inne",-8.35
+"Pilzno","podkarpackie","miasto_inne",-8.36
+"Chocianów","dolnośląskie","miasto_inne",-8.39
+"Sośnicowice","śląskie","miasto_inne",-8.4
+"Kęty","małopolskie","miasto_inne",-8.41
+"Lwówek","wielkopolskie","miasto_inne",-8.45
+"Jastarnia","pomorskie","miasto_inne",-8.46
+"Rabka-Zdrój","małopolskie","miasto_inne",-8.53
+"Wasilków","podlaskie","miasto_inne",-8.54
+"Ińsko","zachodniopomorskie","miasto_inne",-8.58
+"Nowe Miasto nad Pilicą","mazowieckie","miasto_inne",-8.68
+"Barczewo","warmińsko-mazurskie","miasto_inne",-8.71
+"Nowe Miasteczko","lubuskie","miasto_inne",-8.72
+"Rydzyna","wielkopolskie","miasto_inne",-8.78
+"Leśna","dolnośląskie","miasto_inne",-8.79
+"Nowe","kujawsko-pomorskie","miasto_inne",-8.8
+"Dzierzgoń","pomorskie","miasto_inne",-8.8
+"Międzybórz","dolnośląskie","miasto_inne",-8.86
+"Susz","warmińsko-mazurskie","miasto_inne",-8.89
+"Kolonowskie","opolskie","miasto_inne",-8.95
+"Skawina","małopolskie","miasto_inne",-8.96
+"Drezdenko","lubuskie","miasto_inne",-8.97
+"Czerwionka-Leszczyny","śląskie","miasto_inne",-8.97
+"Odolanów","wielkopolskie","miasto_inne",-9.01
+"Kamień Krajeński","kujawsko-pomorskie","miasto_inne",-9.02
+"Chmielnik","świętokrzyskie","miasto_inne",-9.11
+"Szamocin","wielkopolskie","miasto_inne",-9.11
+"Przedecz","wielkopolskie","miasto_inne",-9.15
+"Piechowice","dolnośląskie","miasto_inne",-9.16
+"Nałęczów","lubelskie","miasto_inne",-9.23
+"Biała Rawska","łódzkie","miasto_inne",-9.23
+"Bojanowo","wielkopolskie","miasto_inne",-9.25
+"Moryń","zachodniopomorskie","miasto_inne",-9.32
+"Wojcieszów","dolnośląskie","miasto_inne",-9.34
+"Golina","wielkopolskie","miasto_inne",-9.36
+"Głuszyca","dolnośląskie","miasto_inne",-9.47
+"Przecław","podkarpackie","miasto_inne",-9.47
+"Kołaczyce","podkarpackie","miasto_inne",-9.53
+"Ożarów Mazowiecki","mazowieckie","miasto_inne",-9.54
+"Radzionków","śląskie","miasto_inne",-9.55
+"Biały Bór","zachodniopomorskie","miasto_inne",-9.63
+"Podkowa Leśna","mazowieckie","miasto_inne",-9.66
+"Rydułtowy","śląskie","miasto_inne",-9.76
+"Krzeszowice","małopolskie","miasto_inne",-9.78
+"Rudnik nad Sanem","podkarpackie","miasto_inne",-9.8
+"Czechowice-Dziedzice","śląskie","miasto_inne",-9.82
+"Szepietowo","podlaskie","miasto_inne",-9.87
+"Krasnobród","lubelskie","miasto_inne",-9.89
+"Tuszyn","łódzkie","miasto_inne",-9.91
+"Szczebrzeszyn","lubelskie","miasto_inne",-9.98
+"Lądek-Zdrój","dolnośląskie","miasto_inne",-10.05
+"Słomniki","małopolskie","miasto_inne",-10.07
+"Małogoszcz","świętokrzyskie","miasto_inne",-10.12
+"Strzelno","kujawsko-pomorskie","miasto_inne",-10.18
+"Szadek","łódzkie","miasto_inne",-10.21
+"Poniatowa","lubelskie","miasto_inne",-10.23
+"Drobin","mazowieckie","miasto_inne",-10.23
+"Czersk","pomorskie","miasto_inne",-10.24
+"Górzno","kujawsko-pomorskie","miasto_inne",-10.26
+"Wisła","śląskie","miasto_inne",-10.26
+"Krzyż Wielkopolski","wielkopolskie","miasto_inne",-10.26
+"Połczyn-Zdrój","zachodniopomorskie","miasto_inne",-10.28
+"Poniec","wielkopolskie","miasto_inne",-10.29
+"Szczucin","małopolskie","miasto_inne",-10.37
+"Golczewo","zachodniopomorskie","miasto_inne",-10.42
+"Bobolice","zachodniopomorskie","miasto_inne",-10.42
+"Orzesze","śląskie","miasto_inne",-10.45
+"Wąsosz","dolnośląskie","miasto_inne",-10.5
+"Supraśl","podlaskie","miasto_inne",-10.51
+"Świątniki Górne","małopolskie","miasto_inne",-10.59
+"Zawadzkie","opolskie","miasto_inne",-10.59
+"Ostroróg","wielkopolskie","miasto_inne",-10.6
+"Lipsk","podlaskie","miasto_inne",-10.61
+"Libiąż","małopolskie","miasto_inne",-10.66
+"Rzepin","lubuskie","miasto_inne",-10.69
+"Gościno","zachodniopomorskie","miasto_inne",-10.69
+"Gozdnica","lubuskie","miasto_inne",-10.71
+"Drzewica","łódzkie","miasto_inne",-10.71
+"Błaszki","łódzkie","miasto_inne",-10.73
+"Zduny","wielkopolskie","miasto_inne",-10.75
+"Mordy","mazowieckie","miasto_inne",-10.79
+"Łapy","podlaskie","miasto_inne",-10.8
+"Biała","opolskie","miasto_inne",-10.85
+"Tyczyn","podkarpackie","miasto_inne",-10.88
+"Sulejów","łódzkie","miasto_inne",-10.89
+"Jordanów","małopolskie","miasto_inne",-10.89
+"Łobżenica","wielkopolskie","miasto_inne",-10.96
+"Brańsk","podlaskie","miasto_inne",-11.02
+"Jeziorany","warmińsko-mazurskie","miasto_inne",-11.22
+"Tuliszków","wielkopolskie","miasto_inne",-11.22
+"Dobra","zachodniopomorskie","miasto_inne",-11.24
+"Terespol","lubelskie","miasto_inne",-11.25
+"Krzanowice","śląskie","miasto_inne",-11.27
+"Gorzów Śląski","opolskie","miasto_inne",-11.4
+"Wolin","zachodniopomorskie","miasto_inne",-11.49
+"Kock","lubelskie","miasto_inne",-11.51
+"Pyzdry","wielkopolskie","miasto_inne",-11.59
+"Goniądz","podlaskie","miasto_inne",-11.62
+"Bielawa","dolnośląskie","miasto_inne",-11.71
+"Brzeszcze","małopolskie","miasto_inne",-11.75
+"Skwierzyna","lubuskie","miasto_inne",-11.79
+"Kępice","pomorskie","miasto_inne",-11.85
+"Kunów","świętokrzyskie","miasto_inne",-11.91
+"Czchów","małopolskie","miasto_inne",-11.93
+"Bychawa","lubelskie","miasto_inne",-11.94
+"Rogoźno","wielkopolskie","miasto_inne",-11.94
+"Wilamowice","śląskie","miasto_inne",-11.95
+"Reda","pomorskie","miasto_inne",-11.99
+"Janowiec Wielkopolski","kujawsko-pomorskie","miasto_inne",-12.01
+"Świerzawa","dolnośląskie","miasto_inne",-12.03
+"Pelplin","pomorskie","miasto_inne",-12.04
+"Babimost","lubuskie","miasto_inne",-12.13
+"Grabów nad Prosną","wielkopolskie","miasto_inne",-12.13
+"Chociwel","zachodniopomorskie","miasto_inne",-12.16
+"Warka","mazowieckie","miasto_inne",-12.17
+"Skoczów","śląskie","miasto_inne",-12.25
+"Suchowola","podlaskie","miasto_inne",-12.31
+"Blachownia","śląskie","miasto_inne",-12.31
+"Skalbmierz","świętokrzyskie","miasto_inne",-12.32
+"Gniewkowo","kujawsko-pomorskie","miasto_inne",-12.36
+"Czarna Białostocka","podlaskie","miasto_inne",-12.39
+"Annopol","lubelskie","miasto_inne",-12.43
+"Nowa Dęba","podkarpackie","miasto_inne",-12.43
+"Kowary","dolnośląskie","miasto_inne",-12.44
+"Międzyrzec Podlaski","lubelskie","miasto_inne",-12.44
+"Puszczykowo","wielkopolskie","miasto_inne",-12.47
+"Kalwaria Zebrzydowska","małopolskie","miasto_inne",-12.49
+"Czarne","pomorskie","miasto_inne",-12.49
+"Morawica","świętokrzyskie","miasto_inne",-12.56
+"Orzysz","warmińsko-mazurskie","miasto_inne",-12.57
+"Kowal","kujawsko-pomorskie","miasto_inne",-12.59
+"Jelcz-Laskowice","dolnośląskie","miasto_inne",-12.66
+"Luboń","wielkopolskie","miasto_inne",-12.69
+"Góra Kalwaria","mazowieckie","miasto_inne",-12.75
+"Gąbin","mazowieckie","miasto_inne",-12.75
+"Barlinek","zachodniopomorskie","miasto_inne",-12.84
+"Ozorków","łódzkie","miasto_inne",-12.88
+"Błażowa","podkarpackie","miasto_inne",-12.95
+"Czerniejewo","wielkopolskie","miasto_inne",-13.02
+"Nekla","wielkopolskie","miasto_inne",-13.03
+"Miejska Górka","wielkopolskie","miasto_inne",-13.04
+"Sulmierzyce","wielkopolskie","miasto_inne",-13.05
+"Mszana Dolna","małopolskie","miasto_inne",-13.07
+"Czaplinek","zachodniopomorskie","miasto_inne",-13.14
+"Koronowo","kujawsko-pomorskie","miasto_inne",-13.17
+"Kietrz","opolskie","miasto_inne",-13.19
+"Wronki","wielkopolskie","miasto_inne",-13.19
+"Otmuchów","opolskie","miasto_inne",-13.21
+"Jasień","lubuskie","miasto_inne",-13.25
+"Szklarska Poręba","dolnośląskie","miasto_inne",-13.28
+"Łaszczów","lubelskie","miasto_inne",-13.31
+"Suchań","zachodniopomorskie","miasto_inne",-13.36
+"Kałuszyn","mazowieckie","miasto_inne",-13.38
+"Skała","małopolskie","miasto_inne",-13.39
+"Kalisz Pomorski","zachodniopomorskie","miasto_inne",-13.42
+"Poręba","śląskie","miasto_inne",-13.43
+"Wąchock","świętokrzyskie","miasto_inne",-13.43
+"Jedlina-Zdrój","dolnośląskie","miasto_inne",-13.47
+"Mikołajki","warmińsko-mazurskie","miasto_inne",-13.5
+"Woźniki","śląskie","miasto_inne",-13.51
+"Oborniki Śląskie","dolnośląskie","miasto_inne",-13.6
+"Piaski","lubelskie","miasto_inne",-13.73
+"Sokołów Małopolski","podkarpackie","miasto_inne",-13.75
+"Czerwieńsk","lubuskie","miasto_inne",-13.82
+"Tyszowce","lubelskie","miasto_inne",-13.88
+"Więcbork","kujawsko-pomorskie","miasto_inne",-13.89
+"Witkowo","wielkopolskie","miasto_inne",-13.89
+"Stawiski","podlaskie","miasto_inne",-13.93
+"Kostrzyn nad Odrą","lubuskie","miasto_inne",-14.31
+"Gołańcz","wielkopolskie","miasto_inne",-14.33
+"Bisztynek","warmińsko-mazurskie","miasto_inne",-14.35
+"Kalety","śląskie","miasto_inne",-14.48
+"Dobrzyca","wielkopolskie","miasto_inne",-14.48
+"Skaryszew","mazowieckie","miasto_inne",-14.54
+"Niemodlin","opolskie","miasto_inne",-14.58
+"Pniewy","wielkopolskie","miasto_inne",-14.61
+"Baranów Sandomierski","podkarpackie","miasto_inne",-14.62
+"Kudowa-Zdrój","dolnośląskie","miasto_inne",-14.74
+"Sulechów","lubuskie","miasto_inne",-14.85
+"Pasłęk","warmińsko-mazurskie","miasto_inne",-14.91
+"Rajgród","podlaskie","miasto_inne",-14.97
+"Węgorzyno","zachodniopomorskie","miasto_inne",-15.03
+"Stawiszyn","wielkopolskie","miasto_inne",-15.06
+"Nowogrodziec","dolnośląskie","miasto_inne",-15.09
+"Biecz","małopolskie","miasto_inne",-15.1
+"Ustka","pomorskie","miasto_inne",-15.21
+"Tarnogród","lubelskie","miasto_inne",-15.24
+"Ozimek","opolskie","miasto_inne",-15.25
+"Glinojeck","mazowieckie","miasto_inne",-15.29
+"Józefów","mazowieckie","miasto_inne",-15.39
+"Zagórz","podkarpackie","miasto_inne",-15.44
+"Nowy Wiśnicz","małopolskie","miasto_inne",-15.5
+"Chojna","zachodniopomorskie","miasto_inne",-15.56
+"Ośno Lubuskie","lubuskie","miasto_inne",-15.59
+"Krzepice","śląskie","miasto_inne",-15.71
+"Krynica-Zdrój","małopolskie","miasto_inne",-15.72
+"Skórcz","pomorskie","miasto_inne",-15.72
+"Ziębice","dolnośląskie","miasto_inne",-15.77
+"Kargowa","lubuskie","miasto_inne",-15.77
+"Nowogród","podlaskie","miasto_inne",-15.77
+"Drohiczyn","podlaskie","miasto_inne",-15.81
+"Mszczonów","mazowieckie","miasto_inne",-15.82
+"Strzegom","dolnośląskie","miasto_inne",-15.83
+"Drawno","zachodniopomorskie","miasto_inne",-15.88
+"Lędziny","śląskie","miasto_inne",-15.95
+"Jaraczewo","wielkopolskie","miasto_inne",-15.96
+"Ząbki","mazowieckie","miasto_inne",-16.07
+"Narol","podkarpackie","miasto_inne",-16.08
+"Suraż","podlaskie","miasto_inne",-16.21
+"Krobia","wielkopolskie","miasto_inne",-16.36
+"Tolkmicko","warmińsko-mazurskie","miasto_inne",-16.37
+"Żukowo","pomorskie","miasto_inne",-16.43
+"Rakoniewice","wielkopolskie","miasto_inne",-16.47
+"Zbąszynek","lubuskie","miasto_inne",-16.6
+"Małomice","lubuskie","miasto_inne",-16.6
+"Tuchów","małopolskie","miasto_inne",-16.7
+"Siechnice","dolnośląskie","miasto_inne",-16.71
+"Biskupiec","warmińsko-mazurskie","miasto_inne",-16.72
+"Bolków","dolnośląskie","miasto_inne",-16.74
+"Grybów","małopolskie","miasto_inne",-16.89
+"Zawichost","świętokrzyskie","miasto_inne",-16.92
+"Tłuszcz","mazowieckie","miasto_inne",-16.98
+"Dębno","zachodniopomorskie","miasto_inne",-16.99
+"Mogielnica","mazowieckie","miasto_inne",-17.03
+"Stąporków","świętokrzyskie","miasto_inne",-17.07
+"Zelów","łódzkie","miasto_inne",-17.21
+"Ciężkowice","małopolskie","miasto_inne",-17.39
+"Wieleń","wielkopolskie","miasto_inne",-17.4
+"Trzciel","lubuskie","miasto_inne",-17.44
+"Morąg","warmińsko-mazurskie","miasto_inne",-17.59
+"Działoszyn","łódzkie","miasto_inne",-17.7
+"Kcynia","kujawsko-pomorskie","miasto_inne",-17.8
+"Kórnik","wielkopolskie","miasto_inne",-17.8
+"Alwernia","małopolskie","miasto_inne",-17.82
+"Przedbórz","łódzkie","miasto_inne",-17.94
+"Rejowiec","lubelskie","miasto_inne",-18.08
+"Gubin","lubuskie","miasto_inne",-18.11
+"Jedlicze","podkarpackie","miasto_inne",-18.12
+"Chełmek","małopolskie","miasto_inne",-18.34
+"Piwniczna-Zdrój","małopolskie","miasto_inne",-18.44
+"Mrocza","kujawsko-pomorskie","miasto_inne",-18.45
+"Pilawa","mazowieckie","miasto_inne",-18.52
+"Zakliczyn","małopolskie","miasto_inne",-18.6
+"Wojnicz","małopolskie","miasto_inne",-18.71
+"Stopnica","świętokrzyskie","miasto_inne",-18.76
+"Kowalewo Pomorskie","kujawsko-pomorskie","miasto_inne",-18.86
+"Łochów","mazowieckie","miasto_inne",-18.9
+"Halinów","mazowieckie","miasto_inne",-18.96
+"Nowogard","zachodniopomorskie","miasto_inne",-19
+"Brzostek","podkarpackie","miasto_inne",-19.01
+"Chełmża","kujawsko-pomorskie","miasto_inne",-19.1
+"Mrozy","mazowieckie","miasto_inne",-19.1
+"Zawidów","dolnośląskie","miasto_inne",-19.17
+"Darłowo","zachodniopomorskie","miasto_inne",-19.21
+"Korfantów","opolskie","miasto_inne",-19.36
+"Ryglice","małopolskie","miasto_inne",-19.72
+"Szlichtyngowa","lubuskie","miasto_inne",-19.81
+"Międzylesie","dolnośląskie","miasto_inne",-20.07
+"Koźmin Wielkopolski","wielkopolskie","miasto_inne",-20.1
+"Margonin","wielkopolskie","miasto_inne",-20.19
+"Syców","dolnośląskie","miasto_inne",-20.27
+"Brześć Kujawski","kujawsko-pomorskie","miasto_inne",-20.43
+"Rumia","pomorskie","miasto_inne",-20.7
+"Ryn","warmińsko-mazurskie","miasto_inne",-20.74
+"Szczekociny","śląskie","miasto_inne",-20.75
+"Oleszyce","podkarpackie","miasto_inne",-20.8
+"Miłosław","wielkopolskie","miasto_inne",-20.85
+"Bukowno","małopolskie","miasto_inne",-20.89
+"Zakroczym","mazowieckie","miasto_inne",-20.89
+"Rychwał","wielkopolskie","miasto_inne",-20.89
+"Sieraków","wielkopolskie","miasto_inne",-20.91
+"Pasym","warmińsko-mazurskie","miasto_inne",-21.03
+"Chorzele","mazowieckie","miasto_inne",-21.07
+"Żabno","małopolskie","miasto_inne",-21.08
+"Nowe Brzesko","małopolskie","miasto_inne",-21.09
+"Pobiedziska","wielkopolskie","miasto_inne",-21.15
+"Dąbie","wielkopolskie","miasto_inne",-21.41
+"Wielichowo","wielkopolskie","miasto_inne",-21.47
+"Witnica","lubuskie","miasto_inne",-21.66
+"Radzyń Chełmiński","kujawsko-pomorskie","miasto_inne",-21.69
+"Karlino","zachodniopomorskie","miasto_inne",-21.92
+"Zator","małopolskie","miasto_inne",-22.36
+"Polanica-Zdrój","dolnośląskie","miasto_inne",-22.43
+"Solec Kujawski","kujawsko-pomorskie","miasto_inne",-22.47
+"Brusy","pomorskie","miasto_inne",-22.61
+"Złocieniec","zachodniopomorskie","miasto_inne",-22.74
+"Dobiegniew","lubuskie","miasto_inne",-22.9
+"Stronie Śląskie","dolnośląskie","miasto_inne",-23.03
+"Torzym","lubuskie","miasto_inne",-23.14
+"Szczytna","dolnośląskie","miasto_inne",-23.43
+"Pionki","mazowieckie","miasto_inne",-23.59
+"Trzebiatów","zachodniopomorskie","miasto_inne",-24.19
+"Wiązów","dolnośląskie","miasto_inne",-24.67
+"Konstantynów Łódzki","łódzkie","miasto_inne",-24.7
+"Zielonka","mazowieckie","miasto_inne",-25.05
+"Michałowo","podlaskie","miasto_inne",-25.08
+"Karczew","mazowieckie","miasto_inne",-25.1
+"Hel","pomorskie","miasto_inne",-25.64
+"Daleszyce","świętokrzyskie","miasto_inne",-25.83
+"Kisielice","warmińsko-mazurskie","miasto_inne",-26.1
+"Trzebinia","małopolskie","miasto_inne",-26.63
+"Żmigród","dolnośląskie","miasto_inne",-27.71
+"Imielin","śląskie","miasto_inne",-27.97
+"Milanówek","mazowieckie","miasto_inne",-28.28
+"Łeba","pomorskie","miasto_inne",-28.42
+"Międzyzdroje","zachodniopomorskie","miasto_inne",-28.77
+"Szczyrk","śląskie","miasto_inne",-28.81
+"Maszewo","zachodniopomorskie","miasto_inne",-29.44
+"Wolbórz","łódzkie","miasto_inne",-30.53
+"Suchedniów","świętokrzyskie","miasto_inne",-30.79
+"Choroszcz","podlaskie","miasto_inne",-31.12
+"Osiek","świętokrzyskie","miasto_inne",-31.89
+"Bieżuń","mazowieckie","miasto_inne",-32.16
+"Muszyna","małopolskie","miasto_inne",-32.32
+"Recz","zachodniopomorskie","miasto_inne",-32.77
+"Lipiany","zachodniopomorskie","miasto_inne",-33.35
+"Ruciane-Nida","warmińsko-mazurskie","miasto_inne",-33.67
+"Chęciny","świętokrzyskie","miasto_inne",-33.9
+"Przemków","dolnośląskie","miasto_inne",-34.98
+"Dobczyce","małopolskie","miasto_inne",-35.33
+"Pełczyce","zachodniopomorskie","miasto_inne",-36.04
+"Brok","mazowieckie","miasto_inne",-37.6
+"Koniecpol","śląskie","miasto_inne",-44.04
+"Ostrowice","zachodniopomorskie","gmina_wiejska",133.09
+"Kamieniec Ząbkowicki","dolnośląskie","gmina_wiejska",37.71
+"Zduny","łódzkie","gmina_wiejska",27.42
+"Kodeń","lubelskie","gmina_wiejska",26.74
+"Korycin","podlaskie","gmina_wiejska",25.73
+"Puńsk","podlaskie","gmina_wiejska",24.58
+"Nielisz","lubelskie","gmina_wiejska",22.76
+"Nowy Dwór","podlaskie","gmina_wiejska",21.98
+"Jastków","lubelskie","gmina_wiejska",20.23
+"Krasne","podkarpackie","gmina_wiejska",20.06
+"Sulmierzyce","łódzkie","gmina_wiejska",16.83
+"Horyniec-Zdrój","podkarpackie","gmina_wiejska",16.83
+"Krzemieniewo","wielkopolskie","gmina_wiejska",16.58
+"Piszczac","lubelskie","gmina_wiejska",16.45
+"Lipowiec Kościelny","mazowieckie","gmina_wiejska",16.35
+"Bartoszyce","warmińsko-mazurskie","gmina_wiejska",16.34
+"Słupca","wielkopolskie","gmina_wiejska",15.99
+"Stupsk","mazowieckie","gmina_wiejska",15.66
+"Łapanów","małopolskie","gmina_wiejska",15.53
+"Ostrowite","wielkopolskie","gmina_wiejska",15.32
+"Ryczywół","wielkopolskie","gmina_wiejska",14.82
+"Ornontowice","śląskie","gmina_wiejska",14.64
+"Czarnocin","łódzkie","gmina_wiejska",14.25
+"Stara Dąbrowa","zachodniopomorskie","gmina_wiejska",13.58
+"Kraśniczyn","lubelskie","gmina_wiejska",13.08
+"Przywidz","pomorskie","gmina_wiejska",13.01
+"Morzeszczyn","pomorskie","gmina_wiejska",12.89
+"Zbójno","kujawsko-pomorskie","gmina_wiejska",12.5
+"Michałowice","małopolskie","gmina_wiejska",12.49
+"Boronów","śląskie","gmina_wiejska",12.46
+"Jabłoń","lubelskie","gmina_wiejska",12.4
+"Siennica Różana","lubelskie","gmina_wiejska",12.36
+"Żabia Wola","mazowieckie","gmina_wiejska",12.28
+"Bierawa","opolskie","gmina_wiejska",12.25
+"Wieprz","małopolskie","gmina_wiejska",12.13
+"Rossosz","lubelskie","gmina_wiejska",11.88
+"Ełk","warmińsko-mazurskie","gmina_wiejska",11.76
+"Opatowiec","świętokrzyskie","gmina_wiejska",11.75
+"Gać","podkarpackie","gmina_wiejska",11.5
+"Lubin","dolnośląskie","gmina_wiejska",11.4
+"Bobrowniki","śląskie","gmina_wiejska",11.24
+"Czarnia","mazowieckie","gmina_wiejska",10.84
+"Ulhówek","lubelskie","gmina_wiejska",10.83
+"Bolimów","łódzkie","gmina_wiejska",10.51
+"Lesznowola","mazowieckie","gmina_wiejska",9.94
+"Pawłowice","śląskie","gmina_wiejska",9.92
+"Borzytuchom","pomorskie","gmina_wiejska",9.77
+"Wiślica","świętokrzyskie","gmina_wiejska",9.54
+"Budry","warmińsko-mazurskie","gmina_wiejska",9.54
+"Kije","świętokrzyskie","gmina_wiejska",9.29
+"Słupsk","pomorskie","gmina_wiejska",9.1
+"Barciany","warmińsko-mazurskie","gmina_wiejska",9.06
+"Dynów","podkarpackie","gmina_wiejska",8.91
+"Ożarowice","śląskie","gmina_wiejska",8.89
+"Witonia","łódzkie","gmina_wiejska",8.84
+"Zatory","mazowieckie","gmina_wiejska",8.81
+"Gniezno","wielkopolskie","gmina_wiejska",8.8
+"Skierbieszów","lubelskie","gmina_wiejska",8.71
+"Nur","mazowieckie","gmina_wiejska",8.62
+"Mszana","śląskie","gmina_wiejska",8.5
+"Łagów","świętokrzyskie","gmina_wiejska",8.37
+"Branice","opolskie","gmina_wiejska",8.2
+"Szerzyny","podkarpackie","gmina_wiejska",8.18
+"Maszewo","lubuskie","gmina_wiejska",8.12
+"Lubenia","podkarpackie","gmina_wiejska",8.09
+"Trzebiechów","lubuskie","gmina_wiejska",8.05
+"Kazanów","mazowieckie","gmina_wiejska",8.05
+"Jeżów","łódzkie","gmina_wiejska",8.01
+"Gorzkowice","łódzkie","gmina_wiejska",8
+"Gaworzyce","dolnośląskie","gmina_wiejska",7.96
+"Janów","podlaskie","gmina_wiejska",7.87
+"Stare Babice","mazowieckie","gmina_wiejska",7.8
+"Wieczfnia Kościelna","mazowieckie","gmina_wiejska",7.78
+"Słupia (Konecka)","świętokrzyskie","gmina_wiejska",7.74
+"Mierzęcice","śląskie","gmina_wiejska",7.63
+"Raciążek","kujawsko-pomorskie","gmina_wiejska",7.4
+"Manowo","zachodniopomorskie","gmina_wiejska",7.37
+"Udanin","dolnośląskie","gmina_wiejska",7.31
+"Suchożebry","mazowieckie","gmina_wiejska",7.26
+"Sztabin","podlaskie","gmina_wiejska",7.2
+"Gnojno","świętokrzyskie","gmina_wiejska",7.13
+"Jaświły","podlaskie","gmina_wiejska",7.07
+"Nowe Miasto","mazowieckie","gmina_wiejska",6.93
+"Pakosławice","opolskie","gmina_wiejska",6.85
+"Gilowice","śląskie","gmina_wiejska",6.83
+"Sędziejowice","łódzkie","gmina_wiejska",6.76
+"Gorzków","lubelskie","gmina_wiejska",6.75
+"Bochnia","małopolskie","gmina_wiejska",6.58
+"Zawidz","mazowieckie","gmina_wiejska",6.54
+"Żukowice","dolnośląskie","gmina_wiejska",6.43
+"Łopiennik Górny","lubelskie","gmina_wiejska",6.43
+"Lasowice Wielkie","opolskie","gmina_wiejska",6.37
+"Kuźnica","podlaskie","gmina_wiejska",6.35
+"Nagłowice","świętokrzyskie","gmina_wiejska",6.34
+"Miłki","warmińsko-mazurskie","gmina_wiejska",6.23
+"Jeleniewo","podlaskie","gmina_wiejska",5.91
+"Kętrzyn","warmińsko-mazurskie","gmina_wiejska",5.86
+"Cewice","pomorskie","gmina_wiejska",5.83
+"Bojadła","lubuskie","gmina_wiejska",5.81
+"Budziszewice","łódzkie","gmina_wiejska",5.72
+"Dragacz","kujawsko-pomorskie","gmina_wiejska",5.7
+"Przemęt","wielkopolskie","gmina_wiejska",5.53
+"Podegrodzie","małopolskie","gmina_wiejska",5.51
+"Cegłów","mazowieckie","gmina_wiejska",5.51
+"Janowiec","lubelskie","gmina_wiejska",5.45
+"Trzebieszów","lubelskie","gmina_wiejska",5.43
+"Ostróda","warmińsko-mazurskie","gmina_wiejska",5.41
+"Brody","lubuskie","gmina_wiejska",5.35
+"Dubeninki","warmińsko-mazurskie","gmina_wiejska",5.35
+"Wisznia Mała","dolnośląskie","gmina_wiejska",5.34
+"Buczek","łódzkie","gmina_wiejska",5.29
+"Boniewo","kujawsko-pomorskie","gmina_wiejska",5.26
+"Baranowo","mazowieckie","gmina_wiejska",5.21
+"Adamówka","podkarpackie","gmina_wiejska",5.21
+"Grabów","łódzkie","gmina_wiejska",5.11
+"Chmielno","pomorskie","gmina_wiejska",5.1
+"Dębowa Kłoda","lubelskie","gmina_wiejska",5.07
+"Czemierniki","lubelskie","gmina_wiejska",5.04
+"Kolbudy","pomorskie","gmina_wiejska",4.98
+"Lgota Wielka","łódzkie","gmina_wiejska",4.97
+"Lisia Góra","małopolskie","gmina_wiejska",4.97
+"Leoncin","mazowieckie","gmina_wiejska",4.94
+"Brańsk","podlaskie","gmina_wiejska",4.93
+"Krzczonów","lubelskie","gmina_wiejska",4.91
+"Waganiec","kujawsko-pomorskie","gmina_wiejska",4.9
+"Wejherowo","pomorskie","gmina_wiejska",4.86
+"Żółkiewka","lubelskie","gmina_wiejska",4.84
+"Linia","pomorskie","gmina_wiejska",4.82
+"Obrzycko","wielkopolskie","gmina_wiejska",4.73
+"Kotla","dolnośląskie","gmina_wiejska",4.57
+"Stryszawa","małopolskie","gmina_wiejska",4.55
+"Podedwórze","lubelskie","gmina_wiejska",4.48
+"Świeszyno","zachodniopomorskie","gmina_wiejska",4.44
+"Rakszawa","podkarpackie","gmina_wiejska",4.33
+"Wądroże Wielkie","dolnośląskie","gmina_wiejska",4.3
+"Wielkie Oczy","podkarpackie","gmina_wiejska",4.3
+"Przybiernów","zachodniopomorskie","gmina_wiejska",4.28
+"Sułów","lubelskie","gmina_wiejska",4.16
+"Sochocin","mazowieckie","gmina_wiejska",4.11
+"Lubrza","lubuskie","gmina_wiejska",4.08
+"Krośnice","dolnośląskie","gmina_wiejska",4.06
+"Ceków-Kolonia","wielkopolskie","gmina_wiejska",3.97
+"Nowy Korczyn","świętokrzyskie","gmina_wiejska",3.88
+"Jodłowa","podkarpackie","gmina_wiejska",3.78
+"Tuczępy","świętokrzyskie","gmina_wiejska",3.78
+"Rząśnik","mazowieckie","gmina_wiejska",3.71
+"Piaski","wielkopolskie","gmina_wiejska",3.65
+"Skomlin","łódzkie","gmina_wiejska",3.62
+"Jodłownik","małopolskie","gmina_wiejska",3.6
+"Baboszewo","mazowieckie","gmina_wiejska",3.6
+"Pęcław","dolnośląskie","gmina_wiejska",3.57
+"Zakrzewo","kujawsko-pomorskie","gmina_wiejska",3.56
+"Grodzisko Dolne","podkarpackie","gmina_wiejska",3.48
+"Kaczory","wielkopolskie","gmina_wiejska",3.44
+"Psary","śląskie","gmina_wiejska",3.42
+"Kijewo Królewskie","kujawsko-pomorskie","gmina_wiejska",3.41
+"Lądek","wielkopolskie","gmina_wiejska",3.38
+"Solec nad Wisłą","mazowieckie","gmina_wiejska",3.29
+"Szczutowo","mazowieckie","gmina_wiejska",3.26
+"Rąbino","zachodniopomorskie","gmina_wiejska",3.23
+"Olszanka","opolskie","gmina_wiejska",3.21
+"Dębno","małopolskie","gmina_wiejska",3.17
+"Tarłów","świętokrzyskie","gmina_wiejska",3.14
+"Policzna","mazowieckie","gmina_wiejska",3.13
+"Słupno","mazowieckie","gmina_wiejska",3.11
+"Sławno","łódzkie","gmina_wiejska",3.01
+"Sułoszowa","małopolskie","gmina_wiejska",2.96
+"Braniewo","warmińsko-mazurskie","gmina_wiejska",2.95
+"Lniano","kujawsko-pomorskie","gmina_wiejska",2.94
+"Jastrzębia","mazowieckie","gmina_wiejska",2.93
+"Kluczewsko","świętokrzyskie","gmina_wiejska",2.86
+"Grajewo","podlaskie","gmina_wiejska",2.81
+"Milanów","lubelskie","gmina_wiejska",2.75
+"Lubowidz","mazowieckie","gmina_wiejska",2.75
+"Biesiekierz","zachodniopomorskie","gmina_wiejska",2.74
+"Turek","wielkopolskie","gmina_wiejska",2.69
+"Rzepiennik Strzyżewski","małopolskie","gmina_wiejska",2.68
+"Brody","świętokrzyskie","gmina_wiejska",2.67
+"Rudnik","lubelskie","gmina_wiejska",2.65
+"Chodel","lubelskie","gmina_wiejska",2.64
+"Sitkówka-Nowiny","świętokrzyskie","gmina_wiejska",2.64
+"Słopnice","małopolskie","gmina_wiejska",2.58
+"Ciepielów","mazowieckie","gmina_wiejska",2.56
+"Iłów","mazowieckie","gmina_wiejska",2.51
+"Grabica","łódzkie","gmina_wiejska",2.49
+"Ciasna","śląskie","gmina_wiejska",2.49
+"Płużnica","kujawsko-pomorskie","gmina_wiejska",2.47
+"Rudziniec","śląskie","gmina_wiejska",2.39
+"Chodów","wielkopolskie","gmina_wiejska",2.37
+"Lubań","dolnośląskie","gmina_wiejska",2.36
+"Tczew","pomorskie","gmina_wiejska",2.34
+"Mokrsko","łódzkie","gmina_wiejska",2.32
+"Karniewo","mazowieckie","gmina_wiejska",2.32
+"Godkowo","warmińsko-mazurskie","gmina_wiejska",2.28
+"Lelów","śląskie","gmina_wiejska",2.25
+"Jerzmanowa","dolnośląskie","gmina_wiejska",2.21
+"Przytoczna","lubuskie","gmina_wiejska",2.21
+"Garbów","lubelskie","gmina_wiejska",2.18
+"Susiec","lubelskie","gmina_wiejska",2.18
+"Tomaszów Mazowiecki","łódzkie","gmina_wiejska",2.13
+"Szydłowo","mazowieckie","gmina_wiejska",2.1
+"Walim","dolnośląskie","gmina_wiejska",2.01
+"Kolno","warmińsko-mazurskie","gmina_wiejska",2.01
+"Karczmiska","lubelskie","gmina_wiejska",1.97
+"Kluki","łódzkie","gmina_wiejska",1.86
+"Górowo Iławeckie","warmińsko-mazurskie","gmina_wiejska",1.83
+"Wizna","podlaskie","gmina_wiejska",1.76
+"Potęgowo","pomorskie","gmina_wiejska",1.75
+"Drelów","lubelskie","gmina_wiejska",1.74
+"Koszęcin","śląskie","gmina_wiejska",1.74
+"Dzierzgowo","mazowieckie","gmina_wiejska",1.7
+"Radecznica","lubelskie","gmina_wiejska",1.67
+"Tuchomie","pomorskie","gmina_wiejska",1.66
+"Burzenin","łódzkie","gmina_wiejska",1.65
+"Nowe Piekuty","podlaskie","gmina_wiejska",1.61
+"Liszki","małopolskie","gmina_wiejska",1.59
+"Spiczyn","lubelskie","gmina_wiejska",1.4
+"Chełmiec","małopolskie","gmina_wiejska",1.4
+"Grudziądz","kujawsko-pomorskie","gmina_wiejska",1.37
+"Adamów","lubelskie","gmina_wiejska",1.36
+"Srokowo","warmińsko-mazurskie","gmina_wiejska",1.35
+"Sawin","lubelskie","gmina_wiejska",1.33
+"Nowa Sól","lubuskie","gmina_wiejska",1.28
+"Szczerców","łódzkie","gmina_wiejska",1.28
+"Hażlach","śląskie","gmina_wiejska",1.27
+"Świętajno","warmińsko-mazurskie","gmina_wiejska",1.27
+"Lelkowo","warmińsko-mazurskie","gmina_wiejska",1.26
+"Brójce","łódzkie","gmina_wiejska",1.18
+"Wilkołaz","lubelskie","gmina_wiejska",1.14
+"Wręczyca Wielka","śląskie","gmina_wiejska",1.09
+"Mietków","dolnośląskie","gmina_wiejska",1.08
+"Młynarze","mazowieckie","gmina_wiejska",1.06
+"Wola Mysłowska","lubelskie","gmina_wiejska",1.03
+"Wierzchowo","zachodniopomorskie","gmina_wiejska",1.03
+"Grębocice","dolnośląskie","gmina_wiejska",0.98
+"Bukowina Tatrzańska","małopolskie","gmina_wiejska",0.95
+"Jabłonna","lubelskie","gmina_wiejska",0.92
+"Czeremcha","podlaskie","gmina_wiejska",0.9
+"Brodnica","kujawsko-pomorskie","gmina_wiejska",0.87
+"Biszcza","lubelskie","gmina_wiejska",0.86
+"Krzyżanowice","śląskie","gmina_wiejska",0.82
+"Czarnocin","świętokrzyskie","gmina_wiejska",0.82
+"Regnów","łódzkie","gmina_wiejska",0.78
+"Szczurowa","małopolskie","gmina_wiejska",0.75
+"Strzegowo","mazowieckie","gmina_wiejska",0.75
+"Łukowa","lubelskie","gmina_wiejska",0.74
+"Daszyna","łódzkie","gmina_wiejska",0.73
+"Krzykosy","wielkopolskie","gmina_wiejska",0.73
+"Grabowiec","lubelskie","gmina_wiejska",0.64
+"Osiek","małopolskie","gmina_wiejska",0.64
+"Domanice","mazowieckie","gmina_wiejska",0.64
+"Dąbrówka","mazowieckie","gmina_wiejska",0.62
+"Grunwald","warmińsko-mazurskie","gmina_wiejska",0.61
+"Lubasz","wielkopolskie","gmina_wiejska",0.61
+"Kuryłówka","podkarpackie","gmina_wiejska",0.55
+"Dobryszyce","łódzkie","gmina_wiejska",0.53
+"Dopiewo","wielkopolskie","gmina_wiejska",0.51
+"Raciechowice","małopolskie","gmina_wiejska",0.46
+"Błędów","mazowieckie","gmina_wiejska",0.46
+"Łęki Szlacheckie","łódzkie","gmina_wiejska",0.43
+"Lubochnia","łódzkie","gmina_wiejska",0.39
+"Czerniewice","łódzkie","gmina_wiejska",0.36
+"Osiek Mały","wielkopolskie","gmina_wiejska",0.36
+"Świątki","warmińsko-mazurskie","gmina_wiejska",0.31
+"Dmosin","łódzkie","gmina_wiejska",0.3
+"Chlewiska","mazowieckie","gmina_wiejska",0.24
+"Tułowice","opolskie","gmina_wiejska",0.1
+"Obrazów","świętokrzyskie","gmina_wiejska",0.1
+"Brzeżno","zachodniopomorskie","gmina_wiejska",0.07
+"Paradyż","łódzkie","gmina_wiejska",0.06
+"Sławoborze","zachodniopomorskie","gmina_wiejska",0.04
+"Warta Bolesławiecka","dolnośląskie","gmina_wiejska",0
+"Rudna","dolnośląskie","gmina_wiejska",0
+"Koneck","kujawsko-pomorskie","gmina_wiejska",0
+"Wielka Nieszawka","kujawsko-pomorskie","gmina_wiejska",0
+"Międzyrzec Podlaski","lubelskie","gmina_wiejska",0
+"Siemień","lubelskie","gmina_wiejska",0
+"Puławy","lubelskie","gmina_wiejska",0
+"Żagań","lubuskie","gmina_wiejska",0
+"Kleszczów","łódzkie","gmina_wiejska",0
+"Bedlno","łódzkie","gmina_wiejska",0
+"Ładzice","łódzkie","gmina_wiejska",0
+"Grybów","małopolskie","gmina_wiejska",0
+"Budzów","małopolskie","gmina_wiejska",0
+"Stara Kornica","mazowieckie","gmina_wiejska",0
+"Wiśniewo","mazowieckie","gmina_wiejska",0
+"Szulborze Wielkie","mazowieckie","gmina_wiejska",0
+"Rokietnica","podkarpackie","gmina_wiejska",0
+"Majdan Królewski","podkarpackie","gmina_wiejska",0
+"Jaśliska","podkarpackie","gmina_wiejska",0
+"Niebylec","podkarpackie","gmina_wiejska",0
+"Rutka-Tartak","podlaskie","gmina_wiejska",0
+"Kulesze Kościelne","podlaskie","gmina_wiejska",0
+"Rutki","podlaskie","gmina_wiejska",0
+"Ostaszewo","pomorskie","gmina_wiejska",0
+"Sztutowo","pomorskie","gmina_wiejska",0
+"Gierałtowice","śląskie","gmina_wiejska",0
+"Gowarczów","świętokrzyskie","gmina_wiejska",0
+"Łubnice","świętokrzyskie","gmina_wiejska",0
+"Nowe Miasto nad Wartą","wielkopolskie","gmina_wiejska",0
+"Wałcz","zachodniopomorskie","gmina_wiejska",0
+"Maciejowice","mazowieckie","gmina_wiejska",-0.04
+"Mochowo","mazowieckie","gmina_wiejska",-0.06
+"Janowiec Kościelny","warmińsko-mazurskie","gmina_wiejska",-0.07
+"Żarnowiec","śląskie","gmina_wiejska",-0.08
+"Końskowola","lubelskie","gmina_wiejska",-0.09
+"Krzyżanów","łódzkie","gmina_wiejska",-0.1
+"Hyżne","podkarpackie","gmina_wiejska",-0.1
+"Kiełczygłów","łódzkie","gmina_wiejska",-0.11
+"Mełgiew","lubelskie","gmina_wiejska",-0.19
+"Płoskinia","warmińsko-mazurskie","gmina_wiejska",-0.23
+"Lelis","mazowieckie","gmina_wiejska",-0.26
+"Gromadka","dolnośląskie","gmina_wiejska",-0.33
+"Obsza","lubelskie","gmina_wiejska",-0.36
+"Brochów","mazowieckie","gmina_wiejska",-0.39
+"Czernice Borowe","mazowieckie","gmina_wiejska",-0.4
+"Połajewo","wielkopolskie","gmina_wiejska",-0.4
+"Miękinia","dolnośląskie","gmina_wiejska",-0.41
+"Zambrów","podlaskie","gmina_wiejska",-0.41
+"Masłowice","łódzkie","gmina_wiejska",-0.42
+"Wielopole Skrzyńskie","podkarpackie","gmina_wiejska",-0.45
+"Zembrzyce","małopolskie","gmina_wiejska",-0.47
+"Włoszakowice","wielkopolskie","gmina_wiejska",-0.47
+"Wąpielsk","kujawsko-pomorskie","gmina_wiejska",-0.48
+"Ostrów","podkarpackie","gmina_wiejska",-0.5
+"Kuczbork-Osada","mazowieckie","gmina_wiejska",-0.56
+"Łukowica","małopolskie","gmina_wiejska",-0.57
+"Świnna","śląskie","gmina_wiejska",-0.59
+"Kąkolewnica Wschodnia","lubelskie","gmina_wiejska",-0.6
+"Trzebiel","lubuskie","gmina_wiejska",-0.6
+"Komarów-Osada","lubelskie","gmina_wiejska",-0.63
+"Rokitno","lubelskie","gmina_wiejska",-0.65
+"Kalinowo","warmińsko-mazurskie","gmina_wiejska",-0.71
+"Kowala","mazowieckie","gmina_wiejska",-0.76
+"Kołaczkowo","wielkopolskie","gmina_wiejska",-0.81
+"Batorz","lubelskie","gmina_wiejska",-0.85
+"Bystra-Sidzina","małopolskie","gmina_wiejska",-0.86
+"Marklowice","śląskie","gmina_wiejska",-0.87
+"Borzęcin","małopolskie","gmina_wiejska",-0.88
+"Świerklany","śląskie","gmina_wiejska",-0.91
+"Zakrzówek","lubelskie","gmina_wiejska",-0.94
+"Nowa Karczma","pomorskie","gmina_wiejska",-0.94
+"Darłowo","zachodniopomorskie","gmina_wiejska",-0.95
+"Nawojowa","małopolskie","gmina_wiejska",-0.98
+"Żelazków","wielkopolskie","gmina_wiejska",-0.98
+"Siekierczyn","dolnośląskie","gmina_wiejska",-0.99
+"Przelewice","zachodniopomorskie","gmina_wiejska",-1.01
+"Mucharz","małopolskie","gmina_wiejska",-1.03
+"Przygodzice","wielkopolskie","gmina_wiejska",-1.04
+"Ostrówek","łódzkie","gmina_wiejska",-1.05
+"Stary Lubotyń","mazowieckie","gmina_wiejska",-1.11
+"Baruchowo","kujawsko-pomorskie","gmina_wiejska",-1.12
+"Kościelisko","małopolskie","gmina_wiejska",-1.15
+"Kamienica","małopolskie","gmina_wiejska",-1.17
+"Wieniawa","mazowieckie","gmina_wiejska",-1.2
+"Kamienna Góra","dolnośląskie","gmina_wiejska",-1.22
+"Spytkowice","małopolskie","gmina_wiejska",-1.22
+"Rypin","kujawsko-pomorskie","gmina_wiejska",-1.23
+"Potworów","mazowieckie","gmina_wiejska",-1.23
+"Bogoria","świętokrzyskie","gmina_wiejska",-1.24
+"Osięciny","kujawsko-pomorskie","gmina_wiejska",-1.26
+"Chąśno","łódzkie","gmina_wiejska",-1.26
+"Dobrcz","kujawsko-pomorskie","gmina_wiejska",-1.31
+"Kobylin-Borzymy","podlaskie","gmina_wiejska",-1.32
+"Oporów","łódzkie","gmina_wiejska",-1.34
+"Chrostkowo","kujawsko-pomorskie","gmina_wiejska",-1.35
+"Milejczyce","podlaskie","gmina_wiejska",-1.36
+"Dzierzkowice","lubelskie","gmina_wiejska",-1.37
+"Józefów nad Wisłą","lubelskie","gmina_wiejska",-1.39
+"Niegowa","śląskie","gmina_wiejska",-1.45
+"Brąszewice","łódzkie","gmina_wiejska",-1.47
+"Kamionka Wielka","małopolskie","gmina_wiejska",-1.48
+"Wysokie Mazowieckie","podlaskie","gmina_wiejska",-1.51
+"Łowicz","łódzkie","gmina_wiejska",-1.58
+"Gozdowo","mazowieckie","gmina_wiejska",-1.59
+"Bolesławiec","dolnośląskie","gmina_wiejska",-1.6
+"Lisków","wielkopolskie","gmina_wiejska",-1.6
+"Chrzypsko Wielkie","wielkopolskie","gmina_wiejska",-1.61
+"Potok Górny","lubelskie","gmina_wiejska",-1.62
+"Dębe Wielkie","mazowieckie","gmina_wiejska",-1.62
+"Wieliczki","warmińsko-mazurskie","gmina_wiejska",-1.62
+"Trzyciąż","małopolskie","gmina_wiejska",-1.64
+"Kobyla Góra","wielkopolskie","gmina_wiejska",-1.68
+"Łyszkowice","łódzkie","gmina_wiejska",-1.69
+"Mielnik","podlaskie","gmina_wiejska",-1.71
+"Cekcyn","kujawsko-pomorskie","gmina_wiejska",-1.77
+"Hajnówka","podlaskie","gmina_wiejska",-1.77
+"Czerwińsk nad Wisłą","mazowieckie","gmina_wiejska",-1.78
+"Dalików","łódzkie","gmina_wiejska",-1.79
+"Sienno","mazowieckie","gmina_wiejska",-1.8
+"Wilczyn","wielkopolskie","gmina_wiejska",-1.8
+"Markowa","podkarpackie","gmina_wiejska",-1.82
+"Bobrowo","kujawsko-pomorskie","gmina_wiejska",-1.83
+"Kraśnik","lubelskie","gmina_wiejska",-1.86
+"Białaczów","łódzkie","gmina_wiejska",-1.88
+"Ochotnica Dolna","małopolskie","gmina_wiejska",-1.92
+"Żołynia","podkarpackie","gmina_wiejska",-1.96
+"Abramów","lubelskie","gmina_wiejska",-1.97
+"Wohyń","lubelskie","gmina_wiejska",-2.03
+"Mircze","lubelskie","gmina_wiejska",-2.04
+"Miastkowo","podlaskie","gmina_wiejska",-2.04
+"Jawornik Polski","podkarpackie","gmina_wiejska",-2.06
+"Kobierzyce","dolnośląskie","gmina_wiejska",-2.07
+"Werbkowice","lubelskie","gmina_wiejska",-2.08
+"Głuchów","łódzkie","gmina_wiejska",-2.08
+"Czarnożyły","łódzkie","gmina_wiejska",-2.1
+"Aleksandrów","lubelskie","gmina_wiejska",-2.19
+"Kiwity","warmińsko-mazurskie","gmina_wiejska",-2.19
+"Podgórzyn","dolnośląskie","gmina_wiejska",-2.2
+"Radymno","podkarpackie","gmina_wiejska",-2.2
+"Stary Dzików","podkarpackie","gmina_wiejska",-2.2
+"Zbrosławice","śląskie","gmina_wiejska",-2.23
+"Borkowice","mazowieckie","gmina_wiejska",-2.24
+"Niedźwiada","lubelskie","gmina_wiejska",-2.25
+"Nowa Wieś Wielka","kujawsko-pomorskie","gmina_wiejska",-2.28
+"Joniec","mazowieckie","gmina_wiejska",-2.3
+"Nowa Brzeźnica","łódzkie","gmina_wiejska",-2.32
+"Janów Podlaski","lubelskie","gmina_wiejska",-2.33
+"Mokobody","mazowieckie","gmina_wiejska",-2.35
+"Krasiczyn","podkarpackie","gmina_wiejska",-2.35
+"Tyrawa Wołoska","podkarpackie","gmina_wiejska",-2.36
+"Lubiszyn","lubuskie","gmina_wiejska",-2.38
+"Biskupice","małopolskie","gmina_wiejska",-2.38
+"Tarnówka","wielkopolskie","gmina_wiejska",-2.39
+"Gródek","podlaskie","gmina_wiejska",-2.43
+"Koszarawa","śląskie","gmina_wiejska",-2.44
+"Leszno","mazowieckie","gmina_wiejska",-2.47
+"Trzebielino","pomorskie","gmina_wiejska",-2.51
+"Bełchatów","łódzkie","gmina_wiejska",-2.58
+"Łańcut","podkarpackie","gmina_wiejska",-2.58
+"Kołczygłowy","pomorskie","gmina_wiejska",-2.58
+"Krzęcin","zachodniopomorskie","gmina_wiejska",-2.6
+"Potok Wielki","lubelskie","gmina_wiejska",-2.62
+"Telatyn","lubelskie","gmina_wiejska",-2.66
+"Ruja","dolnośląskie","gmina_wiejska",-2.7
+"Bełżec","lubelskie","gmina_wiejska",-2.7
+"Przytyk","mazowieckie","gmina_wiejska",-2.72
+"Garbatka-Letnisko","mazowieckie","gmina_wiejska",-2.75
+"Wielowieś","śląskie","gmina_wiejska",-2.78
+"Przyłęk","mazowieckie","gmina_wiejska",-2.79
+"Szumowo","podlaskie","gmina_wiejska",-2.84
+"Gorlice","małopolskie","gmina_wiejska",-2.92
+"Gózd","mazowieckie","gmina_wiejska",-2.96
+"Dąbie","lubuskie","gmina_wiejska",-3
+"Perlejewo","podlaskie","gmina_wiejska",-3
+"Rzezawa","małopolskie","gmina_wiejska",-3.01
+"Platerówka","dolnośląskie","gmina_wiejska",-3.02
+"Zawonia","dolnośląskie","gmina_wiejska",-3.06
+"Rzgów","wielkopolskie","gmina_wiejska",-3.06
+"Kraszewice","wielkopolskie","gmina_wiejska",-3.06
+"Duszniki","wielkopolskie","gmina_wiejska",-3.08
+"Stężyca","pomorskie","gmina_wiejska",-3.12
+"Rokietnica","wielkopolskie","gmina_wiejska",-3.13
+"Kawęczyn","wielkopolskie","gmina_wiejska",-3.14
+"Lubiewo","kujawsko-pomorskie","gmina_wiejska",-3.15
+"Gubin","lubuskie","gmina_wiejska",-3.15
+"Promna","mazowieckie","gmina_wiejska",-3.15
+"Krasnystaw","lubelskie","gmina_wiejska",-3.16
+"Radłów","opolskie","gmina_wiejska",-3.16
+"Mirów","mazowieckie","gmina_wiejska",-3.22
+"Jastrząb","mazowieckie","gmina_wiejska",-3.23
+"Krynice","lubelskie","gmina_wiejska",-3.29
+"Czarnków","wielkopolskie","gmina_wiejska",-3.32
+"Serniki","lubelskie","gmina_wiejska",-3.35
+"Zaniemyśl","wielkopolskie","gmina_wiejska",-3.35
+"Kowiesy","łódzkie","gmina_wiejska",-3.36
+"Rychliki","warmińsko-mazurskie","gmina_wiejska",-3.38
+"Dominowo","wielkopolskie","gmina_wiejska",-3.39
+"Krasne","mazowieckie","gmina_wiejska",-3.4
+"Miączyn","lubelskie","gmina_wiejska",-3.42
+"Naruszewo","mazowieckie","gmina_wiejska",-3.44
+"Kurzętnik","warmińsko-mazurskie","gmina_wiejska",-3.46
+"Bukowiec","kujawsko-pomorskie","gmina_wiejska",-3.52
+"Koniusza","małopolskie","gmina_wiejska",-3.57
+"Zarszyn","podkarpackie","gmina_wiejska",-3.58
+"Pawłowiczki","opolskie","gmina_wiejska",-3.59
+"Sieradz","łódzkie","gmina_wiejska",-3.61
+"Bytoń","kujawsko-pomorskie","gmina_wiejska",-3.62
+"Lipka","wielkopolskie","gmina_wiejska",-3.63
+"Kotlin","wielkopolskie","gmina_wiejska",-3.64
+"Lipno","kujawsko-pomorskie","gmina_wiejska",-3.65
+"Chrzanów","lubelskie","gmina_wiejska",-3.65
+"Teresin","mazowieckie","gmina_wiejska",-3.66
+"Ostrówek","lubelskie","gmina_wiejska",-3.68
+"Bałtów","świętokrzyskie","gmina_wiejska",-3.71
+"Porąbka","śląskie","gmina_wiejska",-3.74
+"Gardeja","pomorskie","gmina_wiejska",-3.76
+"Kaźmierz","wielkopolskie","gmina_wiejska",-3.76
+"Polanka Wielka","małopolskie","gmina_wiejska",-3.78
+"Zawady","podlaskie","gmina_wiejska",-3.8
+"Elbląg","warmińsko-mazurskie","gmina_wiejska",-3.8
+"Rędziny","śląskie","gmina_wiejska",-3.82
+"Rzekuń","mazowieckie","gmina_wiejska",-3.83
+"Rzeczniów","mazowieckie","gmina_wiejska",-3.84
+"Dubicze Cerkiewne","podlaskie","gmina_wiejska",-3.87
+"Narew","podlaskie","gmina_wiejska",-3.88
+"Wilczyce","świętokrzyskie","gmina_wiejska",-3.88
+"Kościan","wielkopolskie","gmina_wiejska",-3.88
+"Kroczyce","śląskie","gmina_wiejska",-3.89
+"Bądkowo","kujawsko-pomorskie","gmina_wiejska",-3.91
+"Sobienie-Jeziory","mazowieckie","gmina_wiejska",-3.92
+"Kołbiel","mazowieckie","gmina_wiejska",-3.94
+"Bielany","mazowieckie","gmina_wiejska",-3.94
+"Pawłosiów","podkarpackie","gmina_wiejska",-3.95
+"Dygowo","zachodniopomorskie","gmina_wiejska",-3.95
+"Sidra","podlaskie","gmina_wiejska",-3.99
+"Trzebownisko","podkarpackie","gmina_wiejska",-4
+"Nowy Targ","małopolskie","gmina_wiejska",-4.03
+"Sulęczyno","pomorskie","gmina_wiejska",-4.03
+"Wisznice","lubelskie","gmina_wiejska",-4.04
+"Rościszewo","mazowieckie","gmina_wiejska",-4.05
+"Wierzchlas","łódzkie","gmina_wiejska",-4.06
+"Lubomino","warmińsko-mazurskie","gmina_wiejska",-4.06
+"Jaworze","śląskie","gmina_wiejska",-4.08
+"Bielice","zachodniopomorskie","gmina_wiejska",-4.09
+"Sanok","podkarpackie","gmina_wiejska",-4.11
+"Grodziec","wielkopolskie","gmina_wiejska",-4.11
+"Sicienko","kujawsko-pomorskie","gmina_wiejska",-4.13
+"Pabianice","łódzkie","gmina_wiejska",-4.16
+"Dzierżoniów","dolnośląskie","gmina_wiejska",-4.17
+"Osina","zachodniopomorskie","gmina_wiejska",-4.23
+"Grzegorzew","wielkopolskie","gmina_wiejska",-4.28
+"Nowa Sucha","mazowieckie","gmina_wiejska",-4.29
+"Poświętne","podlaskie","gmina_wiejska",-4.3
+"Dobre","mazowieckie","gmina_wiejska",-4.32
+"Biłgoraj","lubelskie","gmina_wiejska",-4.33
+"Łagów","lubuskie","gmina_wiejska",-4.39
+"Kobiele Wielkie","łódzkie","gmina_wiejska",-4.4
+"Chorkówka","podkarpackie","gmina_wiejska",-4.41
+"Człuchów","pomorskie","gmina_wiejska",-4.43
+"Wydminy","warmińsko-mazurskie","gmina_wiejska",-4.43
+"Ułęż","lubelskie","gmina_wiejska",-4.45
+"Milejów","lubelskie","gmina_wiejska",-4.48
+"Pruszcz Gdański","pomorskie","gmina_wiejska",-4.5
+"Łagiewniki","dolnośląskie","gmina_wiejska",-4.51
+"Wymiarki","lubuskie","gmina_wiejska",-4.54
+"Adamów","lubelskie","gmina_wiejska",-4.59
+"Rogóźno","kujawsko-pomorskie","gmina_wiejska",-4.63
+"Wilków","opolskie","gmina_wiejska",-4.63
+"Poświętne","łódzkie","gmina_wiejska",-4.7
+"Raba Wyżna","małopolskie","gmina_wiejska",-4.72
+"Wiązowna","mazowieckie","gmina_wiejska",-4.74
+"Legnickie Pole","dolnośląskie","gmina_wiejska",-4.75
+"Rudka","podlaskie","gmina_wiejska",-4.75
+"Zagrodno","dolnośląskie","gmina_wiejska",-4.76
+"Księżpol","lubelskie","gmina_wiejska",-4.76
+"Lutowiska","podkarpackie","gmina_wiejska",-4.76
+"Wijewo","wielkopolskie","gmina_wiejska",-4.76
+"Bodzanów","mazowieckie","gmina_wiejska",-4.77
+"Kamień","podkarpackie","gmina_wiejska",-4.77
+"Kocmyrzów-Luborzyca","małopolskie","gmina_wiejska",-4.78
+"Fabianki","kujawsko-pomorskie","gmina_wiejska",-4.8
+"Pilchowice","śląskie","gmina_wiejska",-4.8
+"Świedziebnia","kujawsko-pomorskie","gmina_wiejska",-4.86
+"Odrzywół","mazowieckie","gmina_wiejska",-4.86
+"Wąsewo","mazowieckie","gmina_wiejska",-4.87
+"Kobylnica","pomorskie","gmina_wiejska",-4.88
+"Jarocin","podkarpackie","gmina_wiejska",-4.89
+"Blizanów","wielkopolskie","gmina_wiejska",-4.89
+"Lisewo","kujawsko-pomorskie","gmina_wiejska",-4.9
+"Dziadkowice","podlaskie","gmina_wiejska",-4.98
+"Wodzierady","łódzkie","gmina_wiejska",-5.04
+"Sokołów Podlaski","mazowieckie","gmina_wiejska",-5.04
+"Załuski","mazowieckie","gmina_wiejska",-5.05
+"Rogowo","kujawsko-pomorskie","gmina_wiejska",-5.07
+"Racławice","małopolskie","gmina_wiejska",-5.07
+"Wolanów","mazowieckie","gmina_wiejska",-5.07
+"Krokowa","pomorskie","gmina_wiejska",-5.07
+"Brzeźnica","lubuskie","gmina_wiejska",-5.08
+"Strachówka","mazowieckie","gmina_wiejska",-5.09
+"Dąbrowice","łódzkie","gmina_wiejska",-5.13
+"Klwów","mazowieckie","gmina_wiejska",-5.14
+"Imielno","świętokrzyskie","gmina_wiejska",-5.14
+"Trzydnik Duży","lubelskie","gmina_wiejska",-5.15
+"Mykanów","śląskie","gmina_wiejska",-5.15
+"Jedwabno","warmińsko-mazurskie","gmina_wiejska",-5.15
+"Goraj","lubelskie","gmina_wiejska",-5.16
+"Kocierzew Południowy","łódzkie","gmina_wiejska",-5.16
+"Świdnica","dolnośląskie","gmina_wiejska",-5.17
+"Głowaczów","mazowieckie","gmina_wiejska",-5.19
+"Kampinos","mazowieckie","gmina_wiejska",-5.2
+"Osie","kujawsko-pomorskie","gmina_wiejska",-5.22
+"Jednorożec","mazowieckie","gmina_wiejska",-5.22
+"Orchowo","wielkopolskie","gmina_wiejska",-5.23
+"Baranów","lubelskie","gmina_wiejska",-5.25
+"Kutno","łódzkie","gmina_wiejska",-5.25
+"Skoroszyce","opolskie","gmina_wiejska",-5.25
+"Siemkowice","łódzkie","gmina_wiejska",-5.26
+"Brodnica","wielkopolskie","gmina_wiejska",-5.26
+"Dąbrówno","warmińsko-mazurskie","gmina_wiejska",-5.28
+"Rojewo","kujawsko-pomorskie","gmina_wiejska",-5.3
+"Kościerzyna","pomorskie","gmina_wiejska",-5.3
+"Kołobrzeg","zachodniopomorskie","gmina_wiejska",-5.32
+"Stoczek Łukowski","lubelskie","gmina_wiejska",-5.34
+"Pleśna","małopolskie","gmina_wiejska",-5.36
+"Zgierz","łódzkie","gmina_wiejska",-5.37
+"Lubanie","kujawsko-pomorskie","gmina_wiejska",-5.38
+"Reńska Wieś","opolskie","gmina_wiejska",-5.38
+"Bobowo","pomorskie","gmina_wiejska",-5.38
+"Magnuszew","mazowieckie","gmina_wiejska",-5.39
+"Sosnówka","lubelskie","gmina_wiejska",-5.4
+"Korzenna","małopolskie","gmina_wiejska",-5.4
+"Sokoły","podlaskie","gmina_wiejska",-5.41
+"Nędza","śląskie","gmina_wiejska",-5.41
+"Sieciechów","mazowieckie","gmina_wiejska",-5.42
+"Wietrzychowice","małopolskie","gmina_wiejska",-5.43
+"Zalesie","lubelskie","gmina_wiejska",-5.44
+"Korczyna","podkarpackie","gmina_wiejska",-5.44
+"Złotoryja","dolnośląskie","gmina_wiejska",-5.45
+"Rychtal","wielkopolskie","gmina_wiejska",-5.45
+"Tłuchowo","kujawsko-pomorskie","gmina_wiejska",-5.47
+"Zwierzyn","lubuskie","gmina_wiejska",-5.48
+"Łanięta","łódzkie","gmina_wiejska",-5.51
+"Czyże","podlaskie","gmina_wiejska",-5.52
+"Winnica","mazowieckie","gmina_wiejska",-5.53
+"Samborzec","świętokrzyskie","gmina_wiejska",-5.53
+"Łabunie","lubelskie","gmina_wiejska",-5.59
+"Czarna","podkarpackie","gmina_wiejska",-5.6
+"Lyski","śląskie","gmina_wiejska",-5.62
+"Wiśniew","mazowieckie","gmina_wiejska",-5.64
+"Doruchów","wielkopolskie","gmina_wiejska",-5.71
+"Lutocin","mazowieckie","gmina_wiejska",-5.72
+"Turawa","opolskie","gmina_wiejska",-5.72
+"Bielawy","łódzkie","gmina_wiejska",-5.74
+"Pniewy","mazowieckie","gmina_wiejska",-5.74
+"Stężyca","lubelskie","gmina_wiejska",-5.75
+"Narewka","podlaskie","gmina_wiejska",-5.77
+"Papowo Biskupie","kujawsko-pomorskie","gmina_wiejska",-5.79
+"Lubrza","opolskie","gmina_wiejska",-5.8
+"Łączna","świętokrzyskie","gmina_wiejska",-5.83
+"Komarówka Podlaska","lubelskie","gmina_wiejska",-5.84
+"Bieliny","świętokrzyskie","gmina_wiejska",-5.89
+"Szczytno","warmińsko-mazurskie","gmina_wiejska",-5.89
+"Grabowo","podlaskie","gmina_wiejska",-5.91
+"Kwidzyn","pomorskie","gmina_wiejska",-5.91
+"Rybno","warmińsko-mazurskie","gmina_wiejska",-5.92
+"Dobre","kujawsko-pomorskie","gmina_wiejska",-5.94
+"Leśniowice","lubelskie","gmina_wiejska",-5.95
+"Firlej","lubelskie","gmina_wiejska",-5.95
+"Warlubie","kujawsko-pomorskie","gmina_wiejska",-5.96
+"Sośno","kujawsko-pomorskie","gmina_wiejska",-5.98
+"Skórcz","pomorskie","gmina_wiejska",-5.98
+"Brojce","zachodniopomorskie","gmina_wiejska",-5.98
+"Stara Kiszewa","pomorskie","gmina_wiejska",-6.04
+"Jadów","mazowieckie","gmina_wiejska",-6.08
+"Rudniki","opolskie","gmina_wiejska",-6.11
+"Czerwonka","mazowieckie","gmina_wiejska",-6.12
+"Kościelec","wielkopolskie","gmina_wiejska",-6.13
+"Damasławek","wielkopolskie","gmina_wiejska",-6.13
+"Sękowa","małopolskie","gmina_wiejska",-6.15
+"Miastków Kościelny","mazowieckie","gmina_wiejska",-6.17
+"Kobiór","śląskie","gmina_wiejska",-6.17
+"Mielec","podkarpackie","gmina_wiejska",-6.18
+"Laszki","podkarpackie","gmina_wiejska",-6.19
+"Budzyń","wielkopolskie","gmina_wiejska",-6.2
+"Siemiatycze","podlaskie","gmina_wiejska",-6.21
+"Prostki","warmińsko-mazurskie","gmina_wiejska",-6.21
+"Ozorków","łódzkie","gmina_wiejska",-6.24
+"Sierakowice","pomorskie","gmina_wiejska",-6.24
+"Babiak","wielkopolskie","gmina_wiejska",-6.24
+"Jemielno","dolnośląskie","gmina_wiejska",-6.25
+"Rozdrażew","wielkopolskie","gmina_wiejska",-6.29
+"Strzałkowo","wielkopolskie","gmina_wiejska",-6.29
+"Łomża","podlaskie","gmina_wiejska",-6.3
+"Chotcza","mazowieckie","gmina_wiejska",-6.34
+"Oleśnica","świętokrzyskie","gmina_wiejska",-6.36
+"Platerów","mazowieckie","gmina_wiejska",-6.37
+"Sławno","zachodniopomorskie","gmina_wiejska",-6.38
+"Czarna Dąbrówka","pomorskie","gmina_wiejska",-6.39
+"Raków","świętokrzyskie","gmina_wiejska",-6.4
+"Hrubieszów","lubelskie","gmina_wiejska",-6.47
+"Poraj","śląskie","gmina_wiejska",-6.49
+"Radzyń Podlaski","lubelskie","gmina_wiejska",-6.51
+"Grodziczno","warmińsko-mazurskie","gmina_wiejska",-6.51
+"Lubsza","opolskie","gmina_wiejska",-6.52
+"Dąbrowa","kujawsko-pomorskie","gmina_wiejska",-6.53
+"Mała Wieś","mazowieckie","gmina_wiejska",-6.53
+"Zapolice","łódzkie","gmina_wiejska",-6.62
+"Stary Brus","lubelskie","gmina_wiejska",-6.63
+"Lidzbark Warmiński","warmińsko-mazurskie","gmina_wiejska",-6.64
+"Dolice","zachodniopomorskie","gmina_wiejska",-6.64
+"Jejkowice","śląskie","gmina_wiejska",-6.67
+"Jarosław","podkarpackie","gmina_wiejska",-6.69
+"Rusinów","mazowieckie","gmina_wiejska",-6.72
+"Trąbki Wielkie","pomorskie","gmina_wiejska",-6.73
+"Radoszyce","świętokrzyskie","gmina_wiejska",-6.73
+"Lipnik","świętokrzyskie","gmina_wiejska",-6.73
+"Dobra","małopolskie","gmina_wiejska",-6.74
+"Dubiecko","podkarpackie","gmina_wiejska",-6.76
+"Bartniczka","kujawsko-pomorskie","gmina_wiejska",-6.77
+"Tworóg","śląskie","gmina_wiejska",-6.77
+"Włodowice","śląskie","gmina_wiejska",-6.78
+"Kruszyna","śląskie","gmina_wiejska",-6.8
+"Chełm Śląski","śląskie","gmina_wiejska",-6.8
+"Rogowo","kujawsko-pomorskie","gmina_wiejska",-6.81
+"Przesmyki","mazowieckie","gmina_wiejska",-6.81
+"Rawa Mazowiecka","łódzkie","gmina_wiejska",-6.82
+"Pionki","mazowieckie","gmina_wiejska",-6.84
+"Łaskarzew","mazowieckie","gmina_wiejska",-6.86
+"Sejny","podlaskie","gmina_wiejska",-6.86
+"Brzeziny","łódzkie","gmina_wiejska",-6.88
+"Zaleszany","podkarpackie","gmina_wiejska",-6.88
+"Stare Bogaczowice","dolnośląskie","gmina_wiejska",-6.89
+"Ciechocin","kujawsko-pomorskie","gmina_wiejska",-6.93
+"Sławatycze","lubelskie","gmina_wiejska",-6.93
+"Gąsawa","kujawsko-pomorskie","gmina_wiejska",-6.94
+"Padew Narodowa","podkarpackie","gmina_wiejska",-6.96
+"Nowosolna","łódzkie","gmina_wiejska",-6.98
+"Jaktorów","mazowieckie","gmina_wiejska",-6.98
+"Mikołajki Pomorskie","pomorskie","gmina_wiejska",-6.99
+"Komańcza","podkarpackie","gmina_wiejska",-7
+"Medyka","podkarpackie","gmina_wiejska",-7.04
+"Ceranów","mazowieckie","gmina_wiejska",-7.05
+"Sabnie","mazowieckie","gmina_wiejska",-7.05
+"Parzęczew","łódzkie","gmina_wiejska",-7.08
+"Łąck","mazowieckie","gmina_wiejska",-7.08
+"Bejsce","świętokrzyskie","gmina_wiejska",-7.09
+"Brzeziny","wielkopolskie","gmina_wiejska",-7.09
+"Trojanów","mazowieckie","gmina_wiejska",-7.12
+"Krasnopol","podlaskie","gmina_wiejska",-7.14
+"Sośnie","wielkopolskie","gmina_wiejska",-7.14
+"Rusiec","łódzkie","gmina_wiejska",-7.15
+"Iłowo-Osada","warmińsko-mazurskie","gmina_wiejska",-7.15
+"Jeziorzany","lubelskie","gmina_wiejska",-7.17
+"Celestynów","mazowieckie","gmina_wiejska",-7.17
+"Domaniewice","łódzkie","gmina_wiejska",-7.18
+"Borów","dolnośląskie","gmina_wiejska",-7.19
+"Parchowo","pomorskie","gmina_wiejska",-7.19
+"Wierzbica","mazowieckie","gmina_wiejska",-7.2
+"Nozdrzec","podkarpackie","gmina_wiejska",-7.2
+"Zławieś Wielka","kujawsko-pomorskie","gmina_wiejska",-7.23
+"Klonowa","łódzkie","gmina_wiejska",-7.23
+"Wielbark","warmińsko-mazurskie","gmina_wiejska",-7.23
+"Dąbrowa Zielona","śląskie","gmina_wiejska",-7.25
+"Obryte","mazowieckie","gmina_wiejska",-7.27
+"Dołhobyczów","lubelskie","gmina_wiejska",-7.28
+"Jeleśnia","śląskie","gmina_wiejska",-7.29
+"Lubaczów","podkarpackie","gmina_wiejska",-7.31
+"Łubniany","opolskie","gmina_wiejska",-7.32
+"Wąbrzeźno","kujawsko-pomorskie","gmina_wiejska",-7.33
+"Chełmno","kujawsko-pomorskie","gmina_wiejska",-7.34
+"Orły","podkarpackie","gmina_wiejska",-7.36
+"Niemce","lubelskie","gmina_wiejska",-7.37
+"Złotów","wielkopolskie","gmina_wiejska",-7.37
+"Rajcza","śląskie","gmina_wiejska",-7.38
+"Purda","warmińsko-mazurskie","gmina_wiejska",-7.38
+"Chodzież","wielkopolskie","gmina_wiejska",-7.38
+"Koszyce","małopolskie","gmina_wiejska",-7.39
+"Świercze","mazowieckie","gmina_wiejska",-7.4
+"Chojnów","dolnośląskie","gmina_wiejska",-7.47
+"Przeworno","dolnośląskie","gmina_wiejska",-7.47
+"Słupia (Jędrzejowska)","świętokrzyskie","gmina_wiejska",-7.47
+"Piecki","warmińsko-mazurskie","gmina_wiejska",-7.52
+"Jeziora Wielkie","kujawsko-pomorskie","gmina_wiejska",-7.53
+"Ręczno","łódzkie","gmina_wiejska",-7.54
+"Nowe Miasto Lubawskie","warmińsko-mazurskie","gmina_wiejska",-7.56
+"Limanowa","małopolskie","gmina_wiejska",-7.59
+"Jasło","podkarpackie","gmina_wiejska",-7.59
+"Orońsko","mazowieckie","gmina_wiejska",-7.61
+"Kamień","lubelskie","gmina_wiejska",-7.62
+"Skórzec","mazowieckie","gmina_wiejska",-7.63
+"Olszewo-Borki","mazowieckie","gmina_wiejska",-7.65
+"Krotoszyce","dolnośląskie","gmina_wiejska",-7.67
+"Męcinka","dolnośląskie","gmina_wiejska",-7.68
+"Sierpc","mazowieckie","gmina_wiejska",-7.68
+"Tarnawatka","lubelskie","gmina_wiejska",-7.69
+"Żarnów","łódzkie","gmina_wiejska",-7.71
+"Obrowo","kujawsko-pomorskie","gmina_wiejska",-7.72
+"Osieck","mazowieckie","gmina_wiejska",-7.72
+"Staroźreby","mazowieckie","gmina_wiejska",-7.72
+"Łubianka","kujawsko-pomorskie","gmina_wiejska",-7.73
+"Terespol","lubelskie","gmina_wiejska",-7.74
+"Godziesze Wielkie","wielkopolskie","gmina_wiejska",-7.78
+"Długosiodło","mazowieckie","gmina_wiejska",-7.81
+"Zbiczno","kujawsko-pomorskie","gmina_wiejska",-7.83
+"Czermin","wielkopolskie","gmina_wiejska",-7.85
+"Bliżyn","świętokrzyskie","gmina_wiejska",-7.89
+"Lipnica","pomorskie","gmina_wiejska",-7.9
+"Golub-Dobrzyń","kujawsko-pomorskie","gmina_wiejska",-7.91
+"Kiernozia","łódzkie","gmina_wiejska",-7.96
+"Kodrąb","łódzkie","gmina_wiejska",-7.96
+"Grodzisk","podlaskie","gmina_wiejska",-8
+"Borzechów","lubelskie","gmina_wiejska",-8.05
+"Łęczyce","pomorskie","gmina_wiejska",-8.05
+"Grzmiąca","zachodniopomorskie","gmina_wiejska",-8.06
+"Igołomia-Wawrzeńczyce","małopolskie","gmina_wiejska",-8.09
+"Dębica","podkarpackie","gmina_wiejska",-8.09
+"Czarna","podkarpackie","gmina_wiejska",-8.09
+"Lubomia","śląskie","gmina_wiejska",-8.09
+"Gniewoszów","mazowieckie","gmina_wiejska",-8.12
+"Przodkowo","pomorskie","gmina_wiejska",-8.13
+"Zaręby Kościelne","mazowieckie","gmina_wiejska",-8.16
+"Stubno","podkarpackie","gmina_wiejska",-8.16
+"Klukowo","podlaskie","gmina_wiejska",-8.16
+"Gronowo Elbląskie","warmińsko-mazurskie","gmina_wiejska",-8.16
+"Zamość","lubelskie","gmina_wiejska",-8.19
+"Walce","opolskie","gmina_wiejska",-8.19
+"Lubartów","lubelskie","gmina_wiejska",-8.22
+"Zakrzew","lubelskie","gmina_wiejska",-8.22
+"Karnice","zachodniopomorskie","gmina_wiejska",-8.23
+"Zabór","lubuskie","gmina_wiejska",-8.24
+"Pielgrzymka","dolnośląskie","gmina_wiejska",-8.26
+"Moszczenica","łódzkie","gmina_wiejska",-8.26
+"Pokrzywnica","mazowieckie","gmina_wiejska",-8.26
+"Pierzchnica","świętokrzyskie","gmina_wiejska",-8.26
+"Dąbrowa Biskupia","kujawsko-pomorskie","gmina_wiejska",-8.28
+"Górzno","mazowieckie","gmina_wiejska",-8.28
+"Nowy Duninów","mazowieckie","gmina_wiejska",-8.33
+"Istebna","śląskie","gmina_wiejska",-8.35
+"Wągrowiec","wielkopolskie","gmina_wiejska",-8.35
+"Strzelce","łódzkie","gmina_wiejska",-8.36
+"Uścimów","lubelskie","gmina_wiejska",-8.37
+"Wierzbno","mazowieckie","gmina_wiejska",-8.39
+"Borki","lubelskie","gmina_wiejska",-8.4
+"Złotniki Kujawskie","kujawsko-pomorskie","gmina_wiejska",-8.42
+"Trzeszczany","lubelskie","gmina_wiejska",-8.44
+"Baranów","mazowieckie","gmina_wiejska",-8.45
+"Kłoczew","lubelskie","gmina_wiejska",-8.47
+"Śliwice","kujawsko-pomorskie","gmina_wiejska",-8.5
+"Pszczew","lubuskie","gmina_wiejska",-8.55
+"Dzwola","lubelskie","gmina_wiejska",-8.56
+"Kowale Oleckie","warmińsko-mazurskie","gmina_wiejska",-8.56
+"Książki","kujawsko-pomorskie","gmina_wiejska",-8.59
+"Lubawa","warmińsko-mazurskie","gmina_wiejska",-8.59
+"Łabowa","małopolskie","gmina_wiejska",-8.6
+"Wilga","mazowieckie","gmina_wiejska",-8.63
+"Wiskitki","mazowieckie","gmina_wiejska",-8.64
+"Ulan-Majorat","lubelskie","gmina_wiejska",-8.66
+"Andrzejewo","mazowieckie","gmina_wiejska",-8.68
+"Orla","podlaskie","gmina_wiejska",-8.69
+"Bledzew","lubuskie","gmina_wiejska",-8.7
+"Domaniów","dolnośląskie","gmina_wiejska",-8.76
+"Nadarzyn","mazowieckie","gmina_wiejska",-8.77
+"Smętowo Graniczne","pomorskie","gmina_wiejska",-8.77
+"Marcinowice","dolnośląskie","gmina_wiejska",-8.82
+"Latowicz","mazowieckie","gmina_wiejska",-8.91
+"Osiek Jasielski","podkarpackie","gmina_wiejska",-8.94
+"Kamiennik","opolskie","gmina_wiejska",-8.96
+"Dębowiec","śląskie","gmina_wiejska",-8.96
+"Pakosław","wielkopolskie","gmina_wiejska",-9
+"Komprachcice","opolskie","gmina_wiejska",-9.04
+"Ojrzeń","mazowieckie","gmina_wiejska",-9.06
+"Janowo","warmińsko-mazurskie","gmina_wiejska",-9.07
+"Murów","opolskie","gmina_wiejska",-9.08
+"Radziechowy-Wieprz","śląskie","gmina_wiejska",-9.11
+"Białopole","lubelskie","gmina_wiejska",-9.12
+"Fajsławice","lubelskie","gmina_wiejska",-9.12
+"Bakałarzewo","podlaskie","gmina_wiejska",-9.13
+"Nieborów","łódzkie","gmina_wiejska",-9.14
+"Stoszowice","dolnośląskie","gmina_wiejska",-9.16
+"Gołcza","małopolskie","gmina_wiejska",-9.16
+"Bulkowo","mazowieckie","gmina_wiejska",-9.16
+"Krupski Młyn","śląskie","gmina_wiejska",-9.17
+"Gidle","łódzkie","gmina_wiejska",-9.19
+"Sitno","lubelskie","gmina_wiejska",-9.21
+"Fałków","świętokrzyskie","gmina_wiejska",-9.21
+"Ludwin","lubelskie","gmina_wiejska",-9.22
+"Dąbrowa Chełmińska","kujawsko-pomorskie","gmina_wiejska",-9.23
+"Kikół","kujawsko-pomorskie","gmina_wiejska",-9.23
+"Rzeczyca","łódzkie","gmina_wiejska",-9.23
+"Złota","świętokrzyskie","gmina_wiejska",-9.23
+"Świecie nad Osą","kujawsko-pomorskie","gmina_wiejska",-9.27
+"Zebrzydowice","śląskie","gmina_wiejska",-9.27
+"Jabłonna","mazowieckie","gmina_wiejska",-9.28
+"Zakrzewo","wielkopolskie","gmina_wiejska",-9.28
+"Godów","śląskie","gmina_wiejska",-9.35
+"Świerzno","zachodniopomorskie","gmina_wiejska",-9.37
+"Stare Kurowo","lubuskie","gmina_wiejska",-9.38
+"Strzelce Wielkie","łódzkie","gmina_wiejska",-9.4
+"Goszczanów","łódzkie","gmina_wiejska",-9.41
+"Nowogródek Pomorski","zachodniopomorskie","gmina_wiejska",-9.42
+"Lutomiersk","łódzkie","gmina_wiejska",-9.43
+"Lubień","małopolskie","gmina_wiejska",-9.43
+"Pruszcz","kujawsko-pomorskie","gmina_wiejska",-9.46
+"Osiek","kujawsko-pomorskie","gmina_wiejska",-9.49
+"Hanna","lubelskie","gmina_wiejska",-9.52
+"Mszana Dolna","małopolskie","gmina_wiejska",-9.52
+"Malbork","pomorskie","gmina_wiejska",-9.52
+"Niwiska","podkarpackie","gmina_wiejska",-9.53
+"Solina","podkarpackie","gmina_wiejska",-9.54
+"Prażmów","mazowieckie","gmina_wiejska",-9.59
+"Grębów","podkarpackie","gmina_wiejska",-9.6
+"Paszowice","dolnośląskie","gmina_wiejska",-9.61
+"Wierzbica","lubelskie","gmina_wiejska",-9.63
+"Brzyska","podkarpackie","gmina_wiejska",-9.64
+"Wielka Wieś","małopolskie","gmina_wiejska",-9.67
+"Siemyśl","zachodniopomorskie","gmina_wiejska",-9.7
+"Dzierzążnia","mazowieckie","gmina_wiejska",-9.71
+"Milejewo","warmińsko-mazurskie","gmina_wiejska",-9.72
+"Cieszków","dolnośląskie","gmina_wiejska",-9.73
+"Brzeźnio","łódzkie","gmina_wiejska",-9.73
+"Zawoja","małopolskie","gmina_wiejska",-9.74
+"Raszyn","mazowieckie","gmina_wiejska",-9.75
+"Studzienice","pomorskie","gmina_wiejska",-9.75
+"Będków","łódzkie","gmina_wiejska",-9.76
+"Ujsoły","śląskie","gmina_wiejska",-9.77
+"Rogów","łódzkie","gmina_wiejska",-9.79
+"Szczecinek","zachodniopomorskie","gmina_wiejska",-9.8
+"Korytnica","mazowieckie","gmina_wiejska",-9.81
+"Łękawica","śląskie","gmina_wiejska",-9.81
+"Michałów","świętokrzyskie","gmina_wiejska",-9.83
+"Szelków","mazowieckie","gmina_wiejska",-9.85
+"Gostynin","mazowieckie","gmina_wiejska",-9.87
+"Łambinowice","opolskie","gmina_wiejska",-9.88
+"Stary Dzierzgoń","pomorskie","gmina_wiejska",-9.9
+"Tymbark","małopolskie","gmina_wiejska",-9.92
+"Wilczęta","warmińsko-mazurskie","gmina_wiejska",-9.94
+"Czarny Bór","dolnośląskie","gmina_wiejska",-9.96
+"Rachanie","lubelskie","gmina_wiejska",-9.96
+"Domaszowice","opolskie","gmina_wiejska",-9.96
+"Świerczów","opolskie","gmina_wiejska",-9.96
+"Młodzieszyn","mazowieckie","gmina_wiejska",-9.97
+"Chełmża","kujawsko-pomorskie","gmina_wiejska",-9.99
+"Gorzyce","podkarpackie","gmina_wiejska",-9.99
+"Zgorzelec","dolnośląskie","gmina_wiejska",-10
+"Mycielin","wielkopolskie","gmina_wiejska",-10
+"Serokomla","lubelskie","gmina_wiejska",-10.01
+"Sosnowica","lubelskie","gmina_wiejska",-10.01
+"Zblewo","pomorskie","gmina_wiejska",-10.01
+"Smyków","świętokrzyskie","gmina_wiejska",-10.02
+"Opinogóra Górna","mazowieckie","gmina_wiejska",-10.04
+"Waśniów","świętokrzyskie","gmina_wiejska",-10.05
+"Irządze","śląskie","gmina_wiejska",-10.06
+"Wola Uhruska","lubelskie","gmina_wiejska",-10.09
+"Wola Krzysztoporska","łódzkie","gmina_wiejska",-10.11
+"Sypniewo","mazowieckie","gmina_wiejska",-10.12
+"Bogdaniec","lubuskie","gmina_wiejska",-10.13
+"Radomsko","łódzkie","gmina_wiejska",-10.17
+"Osjaków","łódzkie","gmina_wiejska",-10.17
+"Drużbice","łódzkie","gmina_wiejska",-10.2
+"Działdowo","warmińsko-mazurskie","gmina_wiejska",-10.21
+"Wojcieszków","lubelskie","gmina_wiejska",-10.22
+"Rzeczenica","pomorskie","gmina_wiejska",-10.22
+"Radziemice","małopolskie","gmina_wiejska",-10.24
+"Szypliszki","podlaskie","gmina_wiejska",-10.24
+"Konopnica","łódzkie","gmina_wiejska",-10.25
+"Lubichowo","pomorskie","gmina_wiejska",-10.28
+"Goworowo","mazowieckie","gmina_wiejska",-10.29
+"Skołyszyn","podkarpackie","gmina_wiejska",-10.29
+"Boćki","podlaskie","gmina_wiejska",-10.29
+"Czerwonak","wielkopolskie","gmina_wiejska",-10.3
+"Białobrzegi","podkarpackie","gmina_wiejska",-10.31
+"Nowy Żmigród","podkarpackie","gmina_wiejska",-10.32
+"Cisna","podkarpackie","gmina_wiejska",-10.32
+"Stara Biała","mazowieckie","gmina_wiejska",-10.34
+"Goszczyn","mazowieckie","gmina_wiejska",-10.37
+"Leżajsk","podkarpackie","gmina_wiejska",-10.4
+"Raczki","podlaskie","gmina_wiejska",-10.41
+"Piątek","łódzkie","gmina_wiejska",-10.42
+"Sobolew","mazowieckie","gmina_wiejska",-10.42
+"Haczów","podkarpackie","gmina_wiejska",-10.42
+"Gruta","kujawsko-pomorskie","gmina_wiejska",-10.43
+"Skulsk","wielkopolskie","gmina_wiejska",-10.43
+"Stary Zamość","lubelskie","gmina_wiejska",-10.44
+"Godzianów","łódzkie","gmina_wiejska",-10.45
+"Ropa","małopolskie","gmina_wiejska",-10.45
+"Horodło","lubelskie","gmina_wiejska",-10.47
+"Drawsko","wielkopolskie","gmina_wiejska",-10.49
+"Przasnysz","mazowieckie","gmina_wiejska",-10.5
+"Sadlinki","pomorskie","gmina_wiejska",-10.5
+"Baćkowice","świętokrzyskie","gmina_wiejska",-10.5
+"Sterdyń","mazowieckie","gmina_wiejska",-10.52
+"Besko","podkarpackie","gmina_wiejska",-10.52
+"Gawłuszowice","podkarpackie","gmina_wiejska",-10.53
+"Milówka","śląskie","gmina_wiejska",-10.54
+"Mędrzechów","małopolskie","gmina_wiejska",-10.57
+"Sońsk","mazowieckie","gmina_wiejska",-10.58
+"Płośnica","warmińsko-mazurskie","gmina_wiejska",-10.59
+"Siemiątkowo","mazowieckie","gmina_wiejska",-10.65
+"Grudusk","mazowieckie","gmina_wiejska",-10.66
+"Łubowo","wielkopolskie","gmina_wiejska",-10.66
+"Ruda-Huta","lubelskie","gmina_wiejska",-10.67
+"Bolesław","małopolskie","gmina_wiejska",-10.68
+"Kołbaskowo","zachodniopomorskie","gmina_wiejska",-10.69
+"Kamionka","lubelskie","gmina_wiejska",-10.72
+"Koło","wielkopolskie","gmina_wiejska",-10.72
+"Skrwilno","kujawsko-pomorskie","gmina_wiejska",-10.75
+"Konopnica","lubelskie","gmina_wiejska",-10.76
+"Jeżewo","kujawsko-pomorskie","gmina_wiejska",-10.77
+"Kolno","podlaskie","gmina_wiejska",-10.78
+"Malechowo","zachodniopomorskie","gmina_wiejska",-10.8
+"Stare Czarnowo","zachodniopomorskie","gmina_wiejska",-10.82
+"Łącko","małopolskie","gmina_wiejska",-10.84
+"Wapno","wielkopolskie","gmina_wiejska",-10.85
+"Suchy Dąb","pomorskie","gmina_wiejska",-10.86
+"Oświęcim","małopolskie","gmina_wiejska",-10.9
+"Liniewo","pomorskie","gmina_wiejska",-10.9
+"Gaszowice","śląskie","gmina_wiejska",-10.94
+"Boleszkowice","zachodniopomorskie","gmina_wiejska",-10.94
+"Miedzichowo","wielkopolskie","gmina_wiejska",-10.97
+"Przewóz","lubuskie","gmina_wiejska",-11
+"Iwanowice","małopolskie","gmina_wiejska",-11
+"Szemud","pomorskie","gmina_wiejska",-11
+"Pawłów","świętokrzyskie","gmina_wiejska",-11.02
+"Płońsk","mazowieckie","gmina_wiejska",-11.03
+"Bobrowice","lubuskie","gmina_wiejska",-11.05
+"Herby","śląskie","gmina_wiejska",-11.07
+"Kuślin","wielkopolskie","gmina_wiejska",-11.07
+"Brzozie","kujawsko-pomorskie","gmina_wiejska",-11.08
+"Moskorzew","świętokrzyskie","gmina_wiejska",-11.09
+"Stara Kamienica","dolnośląskie","gmina_wiejska",-11.11
+"Olszanka","mazowieckie","gmina_wiejska",-11.13
+"Krzywda","lubelskie","gmina_wiejska",-11.14
+"Wyry","śląskie","gmina_wiejska",-11.14
+"Białowieża","podlaskie","gmina_wiejska",-11.15
+"Kęsowo","kujawsko-pomorskie","gmina_wiejska",-11.19
+"Konstantynów","lubelskie","gmina_wiejska",-11.19
+"Jarczów","lubelskie","gmina_wiejska",-11.2
+"Masłów","świętokrzyskie","gmina_wiejska",-11.22
+"Iwaniska","świętokrzyskie","gmina_wiejska",-11.24
+"Widuchowa","zachodniopomorskie","gmina_wiejska",-11.24
+"Topólka","kujawsko-pomorskie","gmina_wiejska",-11.25
+"Wadowice Górne","podkarpackie","gmina_wiejska",-11.25
+"Włocławek","kujawsko-pomorskie","gmina_wiejska",-11.26
+"Poronin","małopolskie","gmina_wiejska",-11.26
+"Sieroszewice","wielkopolskie","gmina_wiejska",-11.27
+"Starcza","śląskie","gmina_wiejska",-11.3
+"Lipnica Wielka","małopolskie","gmina_wiejska",-11.32
+"Lichnowy","pomorskie","gmina_wiejska",-11.32
+"Wieliszew","mazowieckie","gmina_wiejska",-11.36
+"Iława","warmińsko-mazurskie","gmina_wiejska",-11.36
+"Zakrzew","mazowieckie","gmina_wiejska",-11.38
+"Korczew","mazowieckie","gmina_wiejska",-11.39
+"Węgierska Górka","śląskie","gmina_wiejska",-11.4
+"Kowal","kujawsko-pomorskie","gmina_wiejska",-11.42
+"Garwolin","mazowieckie","gmina_wiejska",-11.42
+"Krościenko Wyżne","podkarpackie","gmina_wiejska",-11.42
+"Słubice","mazowieckie","gmina_wiejska",-11.43
+"Drwinia","małopolskie","gmina_wiejska",-11.44
+"Spytkowice","małopolskie","gmina_wiejska",-11.44
+"Brenna","śląskie","gmina_wiejska",-11.45
+"Łaziska","lubelskie","gmina_wiejska",-11.46
+"Miedźna","śląskie","gmina_wiejska",-11.46
+"Skierniewice","łódzkie","gmina_wiejska",-11.52
+"Stare Pole","pomorskie","gmina_wiejska",-11.53
+"Bierzwnik","zachodniopomorskie","gmina_wiejska",-11.54
+"Jedlnia-Letnisko","mazowieckie","gmina_wiejska",-11.56
+"Bargłów Kościelny","podlaskie","gmina_wiejska",-11.58
+"Rejowiec Fabryczny","lubelskie","gmina_wiejska",-11.6
+"Stanin","lubelskie","gmina_wiejska",-11.61
+"Lipowa","śląskie","gmina_wiejska",-11.62
+"Juchnowiec Kościelny","podlaskie","gmina_wiejska",-11.64
+"Łuków","lubelskie","gmina_wiejska",-11.66
+"Czosnów","mazowieckie","gmina_wiejska",-11.68
+"Karsin","pomorskie","gmina_wiejska",-11.7
+"Siedlce","mazowieckie","gmina_wiejska",-11.73
+"Osieczna","pomorskie","gmina_wiejska",-11.75
+"Sokolniki","łódzkie","gmina_wiejska",-11.76
+"Osiek","pomorskie","gmina_wiejska",-11.76
+"Sochaczew","mazowieckie","gmina_wiejska",-11.8
+"Mirzec","świętokrzyskie","gmina_wiejska",-11.82
+"Poświętne","mazowieckie","gmina_wiejska",-11.84
+"Kwilcz","wielkopolskie","gmina_wiejska",-11.85
+"Szczawin Kościelny","mazowieckie","gmina_wiejska",-11.87
+"Mińsk Mazowiecki","mazowieckie","gmina_wiejska",-11.88
+"Przykona","wielkopolskie","gmina_wiejska",-11.9
+"Puck","pomorskie","gmina_wiejska",-11.94
+"Giżycko","warmińsko-mazurskie","gmina_wiejska",-11.95
+"Świnice Warckie","łódzkie","gmina_wiejska",-11.98
+"Olesno","małopolskie","gmina_wiejska",-11.99
+"Bodzechów","świętokrzyskie","gmina_wiejska",-12
+"Czajków","wielkopolskie","gmina_wiejska",-12.02
+"Szaflary","małopolskie","gmina_wiejska",-12.03
+"Ujazd","łódzkie","gmina_wiejska",-12.05
+"Strzeleczki","opolskie","gmina_wiejska",-12.05
+"Stare Juchy","warmińsko-mazurskie","gmina_wiejska",-12.05
+"Bukowsko","podkarpackie","gmina_wiejska",-12.06
+"Piątnica","podlaskie","gmina_wiejska",-12.09
+"Kondratowice","dolnośląskie","gmina_wiejska",-12.11
+"Lipinki","małopolskie","gmina_wiejska",-12.11
+"Tuczna","lubelskie","gmina_wiejska",-12.13
+"Nurzec-Stacja","podlaskie","gmina_wiejska",-12.14
+"Cyców","lubelskie","gmina_wiejska",-12.15
+"Iwierzyce","podkarpackie","gmina_wiejska",-12.2
+"Góra Świętej Małgorzaty","łódzkie","gmina_wiejska",-12.21
+"Lipce Reymontowskie","łódzkie","gmina_wiejska",-12.24
+"Gromnik","małopolskie","gmina_wiejska",-12.25
+"Stawiguda","warmińsko-mazurskie","gmina_wiejska",-12.25
+"Krasnosielc","mazowieckie","gmina_wiejska",-12.27
+"Tryńcza","podkarpackie","gmina_wiejska",-12.27
+"Grabów nad Pilicą","mazowieckie","gmina_wiejska",-12.29
+"Trzcinica","wielkopolskie","gmina_wiejska",-12.29
+"Biskupiec","warmińsko-mazurskie","gmina_wiejska",-12.31
+"Małdyty","warmińsko-mazurskie","gmina_wiejska",-12.32
+"Frysztak","podkarpackie","gmina_wiejska",-12.34
+"Dziemiany","pomorskie","gmina_wiejska",-12.35
+"Chełm","lubelskie","gmina_wiejska",-12.36
+"Łęczyca","łódzkie","gmina_wiejska",-12.36
+"Dźwierzuty","warmińsko-mazurskie","gmina_wiejska",-12.36
+"Zarzecze","podkarpackie","gmina_wiejska",-12.39
+"Niechanowo","wielkopolskie","gmina_wiejska",-12.39
+"Bolesławiec","łódzkie","gmina_wiejska",-12.4
+"Michałowice","mazowieckie","gmina_wiejska",-12.4
+"Wińsko","dolnośląskie","gmina_wiejska",-12.41
+"Suwałki","podlaskie","gmina_wiejska",-12.42
+"Gnojnik","małopolskie","gmina_wiejska",-12.43
+"Borowie","mazowieckie","gmina_wiejska",-12.45
+"Rokiciny","łódzkie","gmina_wiejska",-12.46
+"Granowo","wielkopolskie","gmina_wiejska",-12.47
+"Stara Błotnica","mazowieckie","gmina_wiejska",-12.48
+"Brzuze","kujawsko-pomorskie","gmina_wiejska",-12.51
+"Luzino","pomorskie","gmina_wiejska",-12.52
+"Inowłódz","łódzkie","gmina_wiejska",-12.53
+"Drzycim","kujawsko-pomorskie","gmina_wiejska",-12.54
+"Regimin","mazowieckie","gmina_wiejska",-12.54
+"Czastary","łódzkie","gmina_wiejska",-12.55
+"Zduńska Wola","łódzkie","gmina_wiejska",-12.59
+"Wiązownica","podkarpackie","gmina_wiejska",-12.59
+"Święciechowa","wielkopolskie","gmina_wiejska",-12.61
+"Jordanów Śląski","dolnośląskie","gmina_wiejska",-12.62
+"Biały Dunajec","małopolskie","gmina_wiejska",-12.65
+"Niedźwiedź","małopolskie","gmina_wiejska",-12.66
+"Miedzna","mazowieckie","gmina_wiejska",-12.68
+"Koźminek","wielkopolskie","gmina_wiejska",-12.68
+"Kunice","dolnośląskie","gmina_wiejska",-12.71
+"Brudzew","wielkopolskie","gmina_wiejska",-12.71
+"Białogard","zachodniopomorskie","gmina_wiejska",-12.74
+"Marianowo","zachodniopomorskie","gmina_wiejska",-12.74
+"Białe Błota","kujawsko-pomorskie","gmina_wiejska",-12.8
+"Chmielnik","podkarpackie","gmina_wiejska",-12.82
+"Widawa","łódzkie","gmina_wiejska",-12.85
+"Przytuły","podlaskie","gmina_wiejska",-12.86
+"Przemyśl","podkarpackie","gmina_wiejska",-12.88
+"Żary","lubuskie","gmina_wiejska",-12.89
+"Słońsk","lubuskie","gmina_wiejska",-12.93
+"Czudec","podkarpackie","gmina_wiejska",-12.94
+"Ksawerów","łódzkie","gmina_wiejska",-12.95
+"Radziejów","kujawsko-pomorskie","gmina_wiejska",-12.96
+"Deszczno","lubuskie","gmina_wiejska",-13
+"Sorkwity","warmińsko-mazurskie","gmina_wiejska",-13
+"Mieścisko","wielkopolskie","gmina_wiejska",-13.02
+"Krempna","podkarpackie","gmina_wiejska",-13.06
+"Secemin","świętokrzyskie","gmina_wiejska",-13.06
+"Czarna","podkarpackie","gmina_wiejska",-13.07
+"Ryjewo","pomorskie","gmina_wiejska",-13.07
+"Leśna Podlaska","lubelskie","gmina_wiejska",-13.08
+"Wróblew","łódzkie","gmina_wiejska",-13.09
+"Małkinia Górna","mazowieckie","gmina_wiejska",-13.09
+"Radwanice","dolnośląskie","gmina_wiejska",-13.11
+"Tczów","mazowieckie","gmina_wiejska",-13.15
+"Domaradz","podkarpackie","gmina_wiejska",-13.15
+"Jabłonka","małopolskie","gmina_wiejska",-13.21
+"Starogard Gdański","pomorskie","gmina_wiejska",-13.22
+"Szczaniec","lubuskie","gmina_wiejska",-13.23
+"Chybie","śląskie","gmina_wiejska",-13.25
+"Łubnice","łódzkie","gmina_wiejska",-13.26
+"Goczałkowice-Zdrój","śląskie","gmina_wiejska",-13.28
+"Gdów","małopolskie","gmina_wiejska",-13.29
+"Tuszów Narodowy","podkarpackie","gmina_wiejska",-13.3
+"Świerklaniec","śląskie","gmina_wiejska",-13.32
+"Mysłakowice","dolnośląskie","gmina_wiejska",-13.36
+"Wielgie","kujawsko-pomorskie","gmina_wiejska",-13.39
+"Choceń","kujawsko-pomorskie","gmina_wiejska",-13.39
+"Klucze","małopolskie","gmina_wiejska",-13.48
+"Jordanów","małopolskie","gmina_wiejska",-13.49
+"Łużna","małopolskie","gmina_wiejska",-13.5
+"Izbica","lubelskie","gmina_wiejska",-13.57
+"Wyszki","podlaskie","gmina_wiejska",-13.57
+"Dzikowiec","podkarpackie","gmina_wiejska",-13.58
+"Dobroń","łódzkie","gmina_wiejska",-13.59
+"Pcim","małopolskie","gmina_wiejska",-13.62
+"Skrzyszów","małopolskie","gmina_wiejska",-13.64
+"Raciąż","mazowieckie","gmina_wiejska",-13.64
+"Tarnowo Podgórne","wielkopolskie","gmina_wiejska",-13.66
+"Maków","łódzkie","gmina_wiejska",-13.67
+"Nieporęt","mazowieckie","gmina_wiejska",-13.7
+"Repki","mazowieckie","gmina_wiejska",-13.7
+"Mały Płock","podlaskie","gmina_wiejska",-13.7
+"Pacyna","mazowieckie","gmina_wiejska",-13.74
+"Turośń Kościelna","podlaskie","gmina_wiejska",-13.74
+"Stoczek","mazowieckie","gmina_wiejska",-13.78
+"Miedźno","śląskie","gmina_wiejska",-13.79
+"Świętajno","warmińsko-mazurskie","gmina_wiejska",-13.79
+"Mściwojów","dolnośląskie","gmina_wiejska",-13.84
+"Niegosławice","lubuskie","gmina_wiejska",-13.86
+"Dydnia","podkarpackie","gmina_wiejska",-13.86
+"Szydłów","świętokrzyskie","gmina_wiejska",-13.88
+"Żórawina","dolnośląskie","gmina_wiejska",-13.91
+"Wojaszówka","podkarpackie","gmina_wiejska",-13.91
+"Jasionówka","podlaskie","gmina_wiejska",-14
+"Czorsztyn","małopolskie","gmina_wiejska",-14.01
+"Wiśniowa","podkarpackie","gmina_wiejska",-14.01
+"Łomazy","lubelskie","gmina_wiejska",-14.03
+"Grębków","mazowieckie","gmina_wiejska",-14.05
+"Brzeźnica","małopolskie","gmina_wiejska",-14.06
+"Pępowo","wielkopolskie","gmina_wiejska",-14.12
+"Radowo Małe","zachodniopomorskie","gmina_wiejska",-14.12
+"Andrespol","łódzkie","gmina_wiejska",-14.14
+"Kłodzko","dolnośląskie","gmina_wiejska",-14.18
+"Łysomice","kujawsko-pomorskie","gmina_wiejska",-14.18
+"Radzanowo","mazowieckie","gmina_wiejska",-14.18
+"Gołuchów","wielkopolskie","gmina_wiejska",-14.19
+"Łopuszno","świętokrzyskie","gmina_wiejska",-14.2
+"Jeżowe","podkarpackie","gmina_wiejska",-14.22
+"Kiszkowo","wielkopolskie","gmina_wiejska",-14.22
+"Górzyca","lubuskie","gmina_wiejska",-14.24
+"Aleksandrów","łódzkie","gmina_wiejska",-14.24
+"Tarnowiec","podkarpackie","gmina_wiejska",-14.24
+"Somonino","pomorskie","gmina_wiejska",-14.25
+"Zbójna","podlaskie","gmina_wiejska",-14.3
+"Kłomnice","śląskie","gmina_wiejska",-14.3
+"Pietrowice Wielkie","śląskie","gmina_wiejska",-14.31
+"Popielów","opolskie","gmina_wiejska",-14.36
+"Jonkowo","warmińsko-mazurskie","gmina_wiejska",-14.4
+"Nowa Słupia","świętokrzyskie","gmina_wiejska",-14.47
+"Dubienka","lubelskie","gmina_wiejska",-14.49
+"Krzynowłoga Mała","mazowieckie","gmina_wiejska",-14.5
+"Bielsk","mazowieckie","gmina_wiejska",-14.52
+"Kornowac","śląskie","gmina_wiejska",-14.53
+"Kleszczewo","wielkopolskie","gmina_wiejska",-14.56
+"Kruklanki","warmińsko-mazurskie","gmina_wiejska",-14.58
+"Olszówka","wielkopolskie","gmina_wiejska",-14.58
+"Nowy Kawęczyn","łódzkie","gmina_wiejska",-14.59
+"Godziszów","lubelskie","gmina_wiejska",-14.65
+"Zbuczyn","mazowieckie","gmina_wiejska",-14.65
+"Gzy","mazowieckie","gmina_wiejska",-14.67
+"Świdnica","lubuskie","gmina_wiejska",-14.69
+"Czernichów","małopolskie","gmina_wiejska",-14.7
+"Turobin","lubelskie","gmina_wiejska",-14.73
+"Włodawa","lubelskie","gmina_wiejska",-14.8
+"Kaliska","pomorskie","gmina_wiejska",-14.81
+"Długołęka","dolnośląskie","gmina_wiejska",-14.83
+"Cielądz","łódzkie","gmina_wiejska",-14.85
+"Szreńsk","mazowieckie","gmina_wiejska",-14.85
+"Czermin","podkarpackie","gmina_wiejska",-14.87
+"Marciszów","dolnośląskie","gmina_wiejska",-14.9
+"Bojszowy","śląskie","gmina_wiejska",-14.91
+"Bobrowniki","kujawsko-pomorskie","gmina_wiejska",-14.96
+"Michów","lubelskie","gmina_wiejska",-14.96
+"Goleszów","śląskie","gmina_wiejska",-14.96
+"Unisław","kujawsko-pomorskie","gmina_wiejska",-15
+"Pałecznica","małopolskie","gmina_wiejska",-15.01
+"Szczytniki","wielkopolskie","gmina_wiejska",-15.02
+"Pomiechówek","mazowieckie","gmina_wiejska",-15.04
+"Lipnica Murowana","małopolskie","gmina_wiejska",-15.07
+"Olszanica","podkarpackie","gmina_wiejska",-15.1
+"Łoniów","świętokrzyskie","gmina_wiejska",-15.18
+"Baligród","podkarpackie","gmina_wiejska",-15.19
+"Stary Targ","pomorskie","gmina_wiejska",-15.2
+"Pszczółki","pomorskie","gmina_wiejska",-15.21
+"Sulików","dolnośląskie","gmina_wiejska",-15.22
+"Czernica","dolnośląskie","gmina_wiejska",-15.24
+"Bolesław","małopolskie","gmina_wiejska",-15.3
+"Pokój","opolskie","gmina_wiejska",-15.37
+"Rozprza","łódzkie","gmina_wiejska",-15.4
+"Tereszpol","lubelskie","gmina_wiejska",-15.48
+"Wodzisław","świętokrzyskie","gmina_wiejska",-15.5
+"Krzeszyce","lubuskie","gmina_wiejska",-15.52
+"Sadkowice","łódzkie","gmina_wiejska",-15.52
+"Giby","podlaskie","gmina_wiejska",-15.52
+"Czernichów","śląskie","gmina_wiejska",-15.52
+"Kazimierz Biskupi","wielkopolskie","gmina_wiejska",-15.59
+"Świekatowo","kujawsko-pomorskie","gmina_wiejska",-15.65
+"Lipinki Łużyckie","lubuskie","gmina_wiejska",-15.65
+"Szydłowo","wielkopolskie","gmina_wiejska",-15.67
+"Miejsce Piastowe","podkarpackie","gmina_wiejska",-15.75
+"Konopiska","śląskie","gmina_wiejska",-15.75
+"Kozłów","małopolskie","gmina_wiejska",-15.76
+"Strzyżewice","lubelskie","gmina_wiejska",-15.81
+"Wąwolnica","lubelskie","gmina_wiejska",-15.83
+"Bielsk Podlaski","podlaskie","gmina_wiejska",-15.85
+"Wysokie","lubelskie","gmina_wiejska",-15.93
+"Nowa Wieś Lęborska","pomorskie","gmina_wiejska",-15.93
+"Banie","zachodniopomorskie","gmina_wiejska",-15.94
+"Buczkowice","śląskie","gmina_wiejska",-15.98
+"Skąpe","lubuskie","gmina_wiejska",-15.99
+"Biała","łódzkie","gmina_wiejska",-15.99
+"Charsznica","małopolskie","gmina_wiejska",-16.03
+"Sanniki","mazowieckie","gmina_wiejska",-16.08
+"Boguty-Pianki","mazowieckie","gmina_wiejska",-16.11
+"Dorohusk","lubelskie","gmina_wiejska",-16.12
+"Kostomłoty","dolnośląskie","gmina_wiejska",-16.15
+"Damnica","pomorskie","gmina_wiejska",-16.15
+"Galewice","łódzkie","gmina_wiejska",-16.23
+"Jabłonna Lacka","mazowieckie","gmina_wiejska",-16.23
+"Będzino","zachodniopomorskie","gmina_wiejska",-16.24
+"Markusy","warmińsko-mazurskie","gmina_wiejska",-16.28
+"Turośl","podlaskie","gmina_wiejska",-16.31
+"Gródek nad Dunajcem","małopolskie","gmina_wiejska",-16.35
+"Rudnik","śląskie","gmina_wiejska",-16.37
+"Dobroszyce","dolnośląskie","gmina_wiejska",-16.38
+"Filipów","podlaskie","gmina_wiejska",-16.4
+"Żelechlinek","łódzkie","gmina_wiejska",-16.41
+"Świdwin","zachodniopomorskie","gmina_wiejska",-16.44
+"Wodynie","mazowieckie","gmina_wiejska",-16.45
+"Wilków","lubelskie","gmina_wiejska",-16.47
+"Chłopice","podkarpackie","gmina_wiejska",-16.74
+"Cmolas","podkarpackie","gmina_wiejska",-16.76
+"Oława","dolnośląskie","gmina_wiejska",-16.8
+"Lututów","łódzkie","gmina_wiejska",-16.85
+"Jakubów","mazowieckie","gmina_wiejska",-16.91
+"Poczesna","śląskie","gmina_wiejska",-16.93
+"Laskowa","małopolskie","gmina_wiejska",-16.98
+"Główczyce","pomorskie","gmina_wiejska",-16.98
+"Łososina Dolna","małopolskie","gmina_wiejska",-17
+"Biała Podlaska","lubelskie","gmina_wiejska",-17.02
+"Kochanowice","śląskie","gmina_wiejska",-17.07
+"Jerzmanowice-Przeginia","małopolskie","gmina_wiejska",-17.09
+"Ślemień","śląskie","gmina_wiejska",-17.16
+"Dębnica Kaszubska","pomorskie","gmina_wiejska",-17.17
+"Przystajń","śląskie","gmina_wiejska",-17.18
+"Rząśnia","łódzkie","gmina_wiejska",-17.23
+"Klimontów","świętokrzyskie","gmina_wiejska",-17.25
+"Zagnańsk","świętokrzyskie","gmina_wiejska",-17.27
+"Czarny Dunajec","małopolskie","gmina_wiejska",-17.28
+"Mieleszyn","wielkopolskie","gmina_wiejska",-17.32
+"Uchanie","lubelskie","gmina_wiejska",-17.33
+"Markuszów","lubelskie","gmina_wiejska",-17.34
+"Pęczniew","łódzkie","gmina_wiejska",-17.36
+"Mrągowo","warmińsko-mazurskie","gmina_wiejska",-17.44
+"Tokarnia","małopolskie","gmina_wiejska",-17.45
+"Niedrzwica Duża","lubelskie","gmina_wiejska",-17.47
+"Przyrów","śląskie","gmina_wiejska",-17.5
+"Komorniki","wielkopolskie","gmina_wiejska",-17.54
+"Żurawica","podkarpackie","gmina_wiejska",-17.58
+"Ciepłowody","dolnośląskie","gmina_wiejska",-17.59
+"Puszcza Mariańska","mazowieckie","gmina_wiejska",-17.6
+"Ustka","pomorskie","gmina_wiejska",-17.6
+"Chrząstowice","opolskie","gmina_wiejska",-17.62
+"Sarnaki","mazowieckie","gmina_wiejska",-17.71
+"Białośliwie","wielkopolskie","gmina_wiejska",-17.76
+"Wojciechowice","świętokrzyskie","gmina_wiejska",-17.78
+"Mogilany","małopolskie","gmina_wiejska",-17.81
+"Tomice","małopolskie","gmina_wiejska",-17.81
+"Konarzyny","pomorskie","gmina_wiejska",-17.83
+"Smołdzino","pomorskie","gmina_wiejska",-17.87
+"Puchaczów","lubelskie","gmina_wiejska",-17.9
+"Baranów","wielkopolskie","gmina_wiejska",-17.91
+"Tarnów Opolski","opolskie","gmina_wiejska",-17.94
+"Szudziałowo","podlaskie","gmina_wiejska",-17.94
+"Dywity","warmińsko-mazurskie","gmina_wiejska",-17.96
+"Trzciana","małopolskie","gmina_wiejska",-17.98
+"Chojnice","pomorskie","gmina_wiejska",-17.99
+"Miłoradz","pomorskie","gmina_wiejska",-18
+"Skarżysko Kościelne","świętokrzyskie","gmina_wiejska",-18
+"Tarnów","małopolskie","gmina_wiejska",-18.01
+"Gołymin-Ośrodek","mazowieckie","gmina_wiejska",-18.02
+"Subkowy","pomorskie","gmina_wiejska",-18.06
+"Mniów","świętokrzyskie","gmina_wiejska",-18.06
+"Dębowiec","podkarpackie","gmina_wiejska",-18.1
+"Pacanów","świętokrzyskie","gmina_wiejska",-18.11
+"Suchy Las","wielkopolskie","gmina_wiejska",-18.12
+"Malanów","wielkopolskie","gmina_wiejska",-18.13
+"Stolno","kujawsko-pomorskie","gmina_wiejska",-18.14
+"Wyryki","lubelskie","gmina_wiejska",-18.14
+"Jedlińsk","mazowieckie","gmina_wiejska",-18.14
+"Szastarka","lubelskie","gmina_wiejska",-18.16
+"Wielgomłyny","łódzkie","gmina_wiejska",-18.16
+"Żmudź","lubelskie","gmina_wiejska",-18.21
+"Otyń","lubuskie","gmina_wiejska",-18.21
+"Kozielice","zachodniopomorskie","gmina_wiejska",-18.21
+"Osiecznica","dolnośląskie","gmina_wiejska",-18.24
+"Belsk Duży","mazowieckie","gmina_wiejska",-18.25
+"Somianka","mazowieckie","gmina_wiejska",-18.27
+"Gościeradów","lubelskie","gmina_wiejska",-18.28
+"Sadowie","świętokrzyskie","gmina_wiejska",-18.28
+"Łukta","warmińsko-mazurskie","gmina_wiejska",-18.29
+"Wicko","pomorskie","gmina_wiejska",-18.37
+"Kadzidło","mazowieckie","gmina_wiejska",-18.53
+"Siedlisko","lubuskie","gmina_wiejska",-18.59
+"Słaboszów","małopolskie","gmina_wiejska",-18.68
+"Trawniki","lubelskie","gmina_wiejska",-18.7
+"Augustów","podlaskie","gmina_wiejska",-18.71
+"Rozogi","warmińsko-mazurskie","gmina_wiejska",-18.71
+"Tomaszów Lubelski","lubelskie","gmina_wiejska",-18.73
+"Ostrów Mazowiecka","mazowieckie","gmina_wiejska",-18.74
+"Warnice","zachodniopomorskie","gmina_wiejska",-18.77
+"Kłodawa","lubuskie","gmina_wiejska",-18.8
+"Śniadowo","podlaskie","gmina_wiejska",-18.83
+"Ruda Maleniecka","świętokrzyskie","gmina_wiejska",-18.84
+"Banie Mazurskie","warmińsko-mazurskie","gmina_wiejska",-18.85
+"Przechlewo","pomorskie","gmina_wiejska",-18.95
+"Płoniawy-Bramura","mazowieckie","gmina_wiejska",-18.96
+"Huszlew","mazowieckie","gmina_wiejska",-18.98
+"Bircza","podkarpackie","gmina_wiejska",-19.08
+"Krasocin","świętokrzyskie","gmina_wiejska",-19.14
+"Kozy","śląskie","gmina_wiejska",-19.15
+"Cedry Wielkie","pomorskie","gmina_wiejska",-19.19
+"Słupia","łódzkie","gmina_wiejska",-19.25
+"Nowe Ostrowy","łódzkie","gmina_wiejska",-19.27
+"Nowodwór","lubelskie","gmina_wiejska",-19.32
+"Malczyce","dolnośląskie","gmina_wiejska",-19.33
+"Izabelin","mazowieckie","gmina_wiejska",-19.34
+"Zębowice","opolskie","gmina_wiejska",-19.34
+"Łyse","mazowieckie","gmina_wiejska",-19.37
+"Choczewo","pomorskie","gmina_wiejska",-19.38
+"Głusk","lubelskie","gmina_wiejska",-19.43
+"Uście Gorlickie","małopolskie","gmina_wiejska",-19.43
+"Kamieniec","wielkopolskie","gmina_wiejska",-19.43
+"Bralin","wielkopolskie","gmina_wiejska",-19.53
+"Łodygowice","śląskie","gmina_wiejska",-19.54
+"Hańsk","lubelskie","gmina_wiejska",-19.58
+"Wartkowice","łódzkie","gmina_wiejska",-19.58
+"Władysławów","wielkopolskie","gmina_wiejska",-19.59
+"Gietrzwałd","warmińsko-mazurskie","gmina_wiejska",-19.61
+"Sadowne","mazowieckie","gmina_wiejska",-19.63
+"Brudzeń Duży","mazowieckie","gmina_wiejska",-19.64
+"Lipie","śląskie","gmina_wiejska",-19.64
+"Wiżajny","podlaskie","gmina_wiejska",-19.7
+"Dobrzyniewo Duże","podlaskie","gmina_wiejska",-19.72
+"Stryszów","małopolskie","gmina_wiejska",-19.74
+"Miedziana Góra","świętokrzyskie","gmina_wiejska",-19.74
+"Borowa","podkarpackie","gmina_wiejska",-19.78
+"Krzywcza","podkarpackie","gmina_wiejska",-19.79
+"Rytwiany","świętokrzyskie","gmina_wiejska",-19.83
+"Stegna","pomorskie","gmina_wiejska",-19.84
+"Radziejowice","mazowieckie","gmina_wiejska",-19.88
+"Radomin","kujawsko-pomorskie","gmina_wiejska",-19.93
+"Radomyśl nad Sanem","podkarpackie","gmina_wiejska",-19.99
+"Górno","świętokrzyskie","gmina_wiejska",-20.01
+"Zielonki","małopolskie","gmina_wiejska",-20.05
+"Siennica","mazowieckie","gmina_wiejska",-20.07
+"Perzów","wielkopolskie","gmina_wiejska",-20.07
+"Dobromierz","dolnośląskie","gmina_wiejska",-20.12
+"Krypno","podlaskie","gmina_wiejska",-20.12
+"Fredropol","podkarpackie","gmina_wiejska",-20.13
+"Głowno","łódzkie","gmina_wiejska",-20.14
+"Kurów","lubelskie","gmina_wiejska",-20.15
+"Santok","lubuskie","gmina_wiejska",-20.15
+"Kłaj","małopolskie","gmina_wiejska",-20.18
+"Wąsosz","podlaskie","gmina_wiejska",-20.24
+"Gręboszów","małopolskie","gmina_wiejska",-20.29
+"Troszyn","mazowieckie","gmina_wiejska",-20.31
+"Gomunice","łódzkie","gmina_wiejska",-20.32
+"Lipno","wielkopolskie","gmina_wiejska",-20.32
+"Dobrzeń Wielki","opolskie","gmina_wiejska",-20.34
+"Krzymów","wielkopolskie","gmina_wiejska",-20.38
+"Zabrodzie","mazowieckie","gmina_wiejska",-20.4
+"Krzeszów","podkarpackie","gmina_wiejska",-20.46
+"Kolsko","lubuskie","gmina_wiejska",-20.62
+"Pysznica","podkarpackie","gmina_wiejska",-20.69
+"Niechlów","dolnośląskie","gmina_wiejska",-20.72
+"Kotuń","mazowieckie","gmina_wiejska",-20.74
+"Książ Wielki","małopolskie","gmina_wiejska",-20.75
+"Nowa Ruda","dolnośląskie","gmina_wiejska",-20.83
+"Przerośl","podlaskie","gmina_wiejska",-20.99
+"Przeciszów","małopolskie","gmina_wiejska",-21.1
+"Żyraków","podkarpackie","gmina_wiejska",-21.1
+"Sadki","kujawsko-pomorskie","gmina_wiejska",-21.11
+"Urszulin","lubelskie","gmina_wiejska",-21.14
+"Postomino","zachodniopomorskie","gmina_wiejska",-21.17
+"Lubicz","kujawsko-pomorskie","gmina_wiejska",-21.25
+"Kramsk","wielkopolskie","gmina_wiejska",-21.25
+"Żegocina","małopolskie","gmina_wiejska",-21.46
+"Powidz","wielkopolskie","gmina_wiejska",-21.52
+"Bojanów","podkarpackie","gmina_wiejska",-21.6
+"Iwkowa","małopolskie","gmina_wiejska",-21.69
+"Dwikozy","świętokrzyskie","gmina_wiejska",-21.7
+"Popów","śląskie","gmina_wiejska",-21.75
+"Radzanów","mazowieckie","gmina_wiejska",-21.78
+"Oleśnica","dolnośląskie","gmina_wiejska",-21.8
+"Radziłów","podlaskie","gmina_wiejska",-22.08
+"Solec-Zdrój","świętokrzyskie","gmina_wiejska",-22.08
+"Miłkowice","dolnośląskie","gmina_wiejska",-22.13
+"Wierzbinek","wielkopolskie","gmina_wiejska",-22.25
+"Jasienica","śląskie","gmina_wiejska",-22.28
+"Raniżów","podkarpackie","gmina_wiejska",-22.3
+"Polska Cerekiew","opolskie","gmina_wiejska",-22.32
+"Świlcza","podkarpackie","gmina_wiejska",-22.36
+"Wojsławice","lubelskie","gmina_wiejska",-22.37
+"Opatów","śląskie","gmina_wiejska",-22.43
+"Ostrów Wielkopolski","wielkopolskie","gmina_wiejska",-22.48
+"Klembów","mazowieckie","gmina_wiejska",-22.49
+"Wojciechów","lubelskie","gmina_wiejska",-22.5
+"Ciechanów","mazowieckie","gmina_wiejska",-22.53
+"Janów","śląskie","gmina_wiejska",-22.57
+"Radgoszcz","małopolskie","gmina_wiejska",-22.58
+"Rybczewice","lubelskie","gmina_wiejska",-22.69
+"Jeżów Sudecki","dolnośląskie","gmina_wiejska",-22.75
+"Rybno","mazowieckie","gmina_wiejska",-22.75
+"Wilkowice","śląskie","gmina_wiejska",-22.84
+"Gorzyce","śląskie","gmina_wiejska",-22.92
+"Przeworsk","podkarpackie","gmina_wiejska",-22.94
+"Osielsko","kujawsko-pomorskie","gmina_wiejska",-23.13
+"Jemielnica","opolskie","gmina_wiejska",-23.21
+"Stromiec","mazowieckie","gmina_wiejska",-23.31
+"Brańszczyk","mazowieckie","gmina_wiejska",-23.32
+"Liw","mazowieckie","gmina_wiejska",-23.33
+"Inowrocław","kujawsko-pomorskie","gmina_wiejska",-23.35
+"Trzcianne","podlaskie","gmina_wiejska",-23.48
+"Roźwienica","podkarpackie","gmina_wiejska",-23.59
+"Łapsze Niżne","małopolskie","gmina_wiejska",-23.65
+"Kołaki Kościelne","podlaskie","gmina_wiejska",-23.7
+"Radków","świętokrzyskie","gmina_wiejska",-23.8
+"Aleksandrów Kujawski","kujawsko-pomorskie","gmina_wiejska",-23.84
+"Tuplice","lubuskie","gmina_wiejska",-24.11
+"Stare Miasto","wielkopolskie","gmina_wiejska",-24.19
+"Dębowa Łąka","kujawsko-pomorskie","gmina_wiejska",-24.29
+"Lipusz","pomorskie","gmina_wiejska",-24.3
+"Wólka","lubelskie","gmina_wiejska",-24.39
+"Suszec","śląskie","gmina_wiejska",-24.43
+"Żytno","łódzkie","gmina_wiejska",-24.44
+"Chynów","mazowieckie","gmina_wiejska",-24.57
+"Moszczenica","małopolskie","gmina_wiejska",-24.6
+"Kosakowo","pomorskie","gmina_wiejska",-24.61
+"Mstów","śląskie","gmina_wiejska",-24.71
+"Dziadowa Kłoda","dolnośląskie","gmina_wiejska",-24.8
+"Gizałki","wielkopolskie","gmina_wiejska",-25.16
+"Ustronie Morskie","zachodniopomorskie","gmina_wiejska",-25.32
+"Lanckorona","małopolskie","gmina_wiejska",-25.36
+"Sobków","świętokrzyskie","gmina_wiejska",-25.47
+"Babice","małopolskie","gmina_wiejska",-25.49
+"Zabierzów","małopolskie","gmina_wiejska",-25.52
+"Nowinka","podlaskie","gmina_wiejska",-25.57
+"Izbicko","opolskie","gmina_wiejska",-25.58
+"Bytnica","lubuskie","gmina_wiejska",-25.72
+"Żyrzyn","lubelskie","gmina_wiejska",-25.77
+"Stanisławów","mazowieckie","gmina_wiejska",-25.78
+"Gostycyn","kujawsko-pomorskie","gmina_wiejska",-25.96
+"Zadzim","łódzkie","gmina_wiejska",-25.96
+"Krościenko nad Dunajcem","małopolskie","gmina_wiejska",-26.05
+"Strawczyn","świętokrzyskie","gmina_wiejska",-26.29
+"Stargard Szczeciński","zachodniopomorskie","gmina_wiejska",-26.62
+"Oksa","świętokrzyskie","gmina_wiejska",-26.64
+"Janowice Wielkie","dolnośląskie","gmina_wiejska",-26.82
+"Wiśniowa","małopolskie","gmina_wiejska",-27.1
+"Czernikowo","kujawsko-pomorskie","gmina_wiejska",-27.23
+"Harasiuki","podkarpackie","gmina_wiejska",-27.48
+"Siedlec","wielkopolskie","gmina_wiejska",-27.49
+"Pawonków","śląskie","gmina_wiejska",-27.7
+"Dłutów","łódzkie","gmina_wiejska",-27.76
+"Dąbrowa","opolskie","gmina_wiejska",-28.12
+"Rymań","zachodniopomorskie","gmina_wiejska",-28.45
+"Panki","śląskie","gmina_wiejska",-28.46
+"Cisek","opolskie","gmina_wiejska",-28.59
+"Lewin Kłodzki","dolnośląskie","gmina_wiejska",-28.61
+"Olsztyn","śląskie","gmina_wiejska",-28.71
+"Koczała","pomorskie","gmina_wiejska",-29.71
+"Rzewnie","mazowieckie","gmina_wiejska",-29.97
+"Dobra (Szczecińska)","zachodniopomorskie","gmina_wiejska",-30.08
+"Łęka Opatowska","wielkopolskie","gmina_wiejska",-30.19
+"Parysów","mazowieckie","gmina_wiejska",-30.67
+"Kozłowo","warmińsko-mazurskie","gmina_wiejska",-30.76
+"Gniewino","pomorskie","gmina_wiejska",-30.86
+"Mniszków","łódzkie","gmina_wiejska",-30.89
+"Czerwin","mazowieckie","gmina_wiejska",-31.02
+"Jasieniec","mazowieckie","gmina_wiejska",-31.18
+"Pątnów","łódzkie","gmina_wiejska",-31.63
+"Głogów","dolnośląskie","gmina_wiejska",-31.97
+"Kobylanka","zachodniopomorskie","gmina_wiejska",-32.44
+"Miasteczko Krajeńskie","wielkopolskie","gmina_wiejska",-32.64
+"Gielniów","mazowieckie","gmina_wiejska",-32.88
+"Wierzchosławice","małopolskie","gmina_wiejska",-33.32
+"Kamienica Polska","śląskie","gmina_wiejska",-33.45
+"Radzanów","mazowieckie","gmina_wiejska",-33.77
+"Paprotnia","mazowieckie","gmina_wiejska",-34.38
+"Skarbimierz","opolskie","gmina_wiejska",-35.54
+"Rytro","małopolskie","gmina_wiejska",-36
+"Płaska","podlaskie","gmina_wiejska",-36.57
+"Jasienica Rosielna","podkarpackie","gmina_wiejska",-36.8
+"Bestwina","śląskie","gmina_wiejska",-38.49
+"Piekoszów","świętokrzyskie","gmina_wiejska",-38.66
+"Pozezdrze","warmińsko-mazurskie","gmina_wiejska",-41.51
+"Siepraw","małopolskie","gmina_wiejska",-43.05
+"Rewal","zachodniopomorskie","gmina_wiejska",-214.21
+"Kielce","świętokrzyskie","miasto_wojewódzkie",8.5
+"Lublin","lubelskie","miasto_wojewódzkie",1.64
+"Rzeszów","podkarpackie","miasto_wojewódzkie",1.14
+"Wrocław","dolnośląskie","miasto_wojewódzkie",0.55
+"Kraków","małopolskie","miasto_wojewódzkie",-2.33
+"Olsztyn","warmińsko-mazurskie","miasto_wojewódzkie",-3.18
+"Szczecin","zachodniopomorskie","miasto_wojewódzkie",-3.49
+"Białystok","podlaskie","miasto_wojewódzkie",-3.51
+"Katowice","śląskie","miasto_wojewódzkie",-7.36
+"Łódź","łódzkie","miasto_wojewódzkie",-9.35
+"Opole","opolskie","miasto_wojewódzkie",-9.37
+"Warszawa","mazowieckie","miasto_wojewódzkie",-10.69
+"Zielona Góra","lubuskie","miasto_wojewódzkie",-12.95
+"Toruń","kujawsko-pomorskie","miasto_wojewódzkie",-13.72
+"Gorzów Wlkp.","lubuskie","miasto_wojewódzkie",-14.48
+"Gdańsk","pomorskie","miasto_wojewódzkie",-15.02
+"Bydgoszcz","kujawsko-pomorskie","miasto_wojewódzkie",16.64
+"Poznań","wielkopolskie","miasto_wojewódzkie",-22.8
