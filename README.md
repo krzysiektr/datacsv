@@ -6,3 +6,5 @@
 
 * Dane: odsetek wydatków na żywność:
   - source: https://www.rdocumentation.org/packages/betareg/versions/3.1-2/topics/FoodExpenditure
+
+* Dane: wiek posłów w dniu wyborów
